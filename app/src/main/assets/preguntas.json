@@ -1,0 +1,5102 @@
+{
+  "bank": [
+    {
+      "n": 1,
+      "subject": "Ciencias Sociales",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "¿Qué disciplina de las ciencias sociales estudia las relaciones, instituciones y comportamientos de los grupos humanos?",
+      "answer": "Sociología"
+    },
+    {
+      "n": 2,
+      "subject": "Ciencias Sociales",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "¿Qué cultivo fue la principal base de la economía agroexportadora salvadoreña durante la República cafetalera?",
+      "answer": "Café"
+    },
+    {
+      "n": 3,
+      "subject": "Ciencias Sociales",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "El modelo de industrialización por sustitución de importaciones buscaba principalmente:",
+      "answer": "Reemplazar bienes importados por producción nacional"
+    },
+    {
+      "n": 4,
+      "subject": "Ciencias Sociales",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "¿En qué año ocurrió la guerra entre El Salvador y Honduras conocida popularmente como la «Guerra de las Cien Horas»?",
+      "answer": "1969"
+    },
+    {
+      "n": 5,
+      "subject": "Ciencias Sociales",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "¿Qué acontecimiento civil contribuyó a la caída del gobierno de Maximiliano Hernández Martínez en 1944?",
+      "answer": "La huelga de brazos caídos de 1944"
+    },
+    {
+      "n": 6,
+      "subject": "Ciencias Sociales",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "Durante la Guerra Fría, la «doctrina de seguridad nacional» en América Latina vinculó la seguridad estatal con:",
+      "answer": "La defensa frente a la supuesta amenaza del comunismo interno"
+    },
+    {
+      "n": 7,
+      "subject": "Ciencias Sociales",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "¿En qué ciudad se firmaron los Acuerdos de Paz que pusieron fin al conflicto armado salvadoreño en 1992?",
+      "answer": "Ciudad de México (Castillo de Chapultepec)"
+    },
+    {
+      "n": 8,
+      "subject": "Ciencias Sociales",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "La teoría de la dependencia sostiene que el subdesarrollo de muchos países se relaciona con:",
+      "answer": "Relaciones desiguales entre centro y periferia"
+    },
+    {
+      "n": 9,
+      "subject": "Ciencias Sociales",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "Una de las transformaciones institucionales derivadas de los Acuerdos de Paz fue:",
+      "answer": "La creación de la Policía Nacional Civil"
+    },
+    {
+      "n": 10,
+      "subject": "Ciencias Sociales",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "La Guerra Fría se caracterizó principalmente por la rivalidad geopolítica entre:",
+      "answer": "Estados Unidos y la Unión Soviética"
+    },
+    {
+      "n": 11,
+      "subject": "Ciencias Sociales",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "¿Qué acontecimiento de 1989 simbolizó la apertura del bloque de Europa oriental y el debilitamiento de la división europea?",
+      "answer": "La caída del Muro de Berlín"
+    },
+    {
+      "n": 12,
+      "subject": "Ciencias Sociales",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "La combinación de prácticas culturales de distinta procedencia que origina expresiones nuevas se denomina:",
+      "answer": "Hibridación cultural"
+    },
+    {
+      "n": 13,
+      "subject": "Ciencias Sociales",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "¿Cuál es una función típica de un consulado?",
+      "answer": "Brindar asistencia y trámites a sus nacionales en el exterior"
+    },
+    {
+      "n": 14,
+      "subject": "Ciencias Sociales",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "El Producto Interno Bruto (PIB) per cápita se calcula dividiendo:",
+      "answer": "El PIB entre el número de habitantes"
+    },
+    {
+      "n": 15,
+      "subject": "Ciencias Sociales",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "Un impuesto indirecto que grava generalmente el consumo de bienes y servicios en El Salvador es:",
+      "answer": "El impuesto al valor agregado (IVA)"
+    },
+    {
+      "n": 16,
+      "subject": "Ciencias Sociales",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "¿Cuál acción expresa mejor el principio de desarrollo sostenible?",
+      "answer": "Satisfacer necesidades actuales sin comprometer a las generaciones futuras"
+    },
+    {
+      "n": 17,
+      "subject": "Ciencias Sociales",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "¿Qué efecto económico importante pueden tener las remesas enviadas por salvadoreños residentes en el exterior?",
+      "answer": "Aumentar el ingreso disponible de los hogares receptores"
+    },
+    {
+      "n": 18,
+      "subject": "Ciencias Sociales",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "Menciona un derecho económico, social o cultural reconocido internacionalmente.",
+      "answer": "Acceso a la educación"
+    },
+    {
+      "n": 19,
+      "subject": "Ciencias Sociales",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "El derecho a un ambiente sano suele relacionarse con los derechos humanos de:",
+      "answer": "Solidaridad o tercera generación"
+    },
+    {
+      "n": 20,
+      "subject": "Ciencias Sociales",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "¿Cuál característica corresponde al comercio electrónico?",
+      "answer": "Permite transacciones comerciales mediante redes digitales"
+    },
+    {
+      "n": 21,
+      "subject": "Ciencias Sociales",
+      "topic": "Ciencias sociales: fundamentos",
+      "question": "¿Cuál es el objeto de estudio fundamental de la Historia?",
+      "answer": "Los procesos y acontecimientos de las sociedades humanas a través del tiempo."
+    },
+    {
+      "n": 22,
+      "subject": "Ciencias Sociales",
+      "topic": "Ciencias sociales: fundamentos",
+      "question": "¿Qué ciencia social estudia las actividades de producción, distribución y consumo de bienes y servicios?",
+      "answer": "La Economía."
+    },
+    {
+      "n": 23,
+      "subject": "Ciencias Sociales",
+      "topic": "Ciencias sociales: fundamentos",
+      "question": "¿Qué estudia principalmente la ciencia política?",
+      "answer": "El poder, el Estado, las instituciones y los procesos políticos."
+    },
+    {
+      "n": 24,
+      "subject": "Ciencias Sociales",
+      "topic": "Ciencias sociales: fundamentos",
+      "question": "¿Qué distingue a una fuente histórica primaria?",
+      "answer": "Es un testimonio o documento producido en la época estudiada."
+    },
+    {
+      "n": 25,
+      "subject": "Ciencias Sociales",
+      "topic": "Ciencias sociales: fundamentos",
+      "question": "¿Qué es una hipótesis en una investigación social?",
+      "answer": "Una explicación provisional susceptible de contrastarse con evidencia."
+    },
+    {
+      "n": 26,
+      "subject": "Ciencias Sociales",
+      "topic": "Ciencias sociales: fundamentos",
+      "question": "¿Qué es una encuesta dentro de la investigación social?",
+      "answer": "Una técnica para recopilar información mediante preguntas a personas."
+    },
+    {
+      "n": 27,
+      "subject": "Ciencias Sociales",
+      "topic": "Ciencias sociales: fundamentos",
+      "question": "¿Cuál es la diferencia básica entre hechos y opiniones?",
+      "answer": "Los hechos pueden contrastarse con evidencia; las opiniones expresan valoraciones."
+    },
+    {
+      "n": 28,
+      "subject": "Ciencias Sociales",
+      "topic": "Economía e historia económica",
+      "question": "¿Qué sector productivo comprende la agricultura, ganadería y pesca?",
+      "answer": "El sector primario."
+    },
+    {
+      "n": 29,
+      "subject": "Ciencias Sociales",
+      "topic": "Economía e historia económica",
+      "question": "¿Qué sector económico se relaciona con la transformación industrial de materias primas?",
+      "answer": "El sector secundario."
+    },
+    {
+      "n": 30,
+      "subject": "Ciencias Sociales",
+      "topic": "Economía e historia económica",
+      "question": "¿En qué consiste una economía agroexportadora?",
+      "answer": "En una economía cuya actividad de exportación depende principalmente de productos agrícolas."
+    },
+    {
+      "n": 31,
+      "subject": "Ciencias Sociales",
+      "topic": "Economía e historia económica",
+      "question": "¿Cuál fue un efecto social de la expansión del cultivo de café en El Salvador?",
+      "answer": "La concentración de la propiedad de la tierra y el fortalecimiento de una élite cafetalera."
+    },
+    {
+      "n": 32,
+      "subject": "Ciencias Sociales",
+      "topic": "Economía e historia económica",
+      "question": "¿Qué infraestructura se desarrolló para facilitar la exportación de café en El Salvador?",
+      "answer": "Ferrocarriles, caminos y puertos."
+    },
+    {
+      "n": 33,
+      "subject": "Ciencias Sociales",
+      "topic": "Economía e historia económica",
+      "question": "¿Qué significa clientelismo político?",
+      "answer": "El intercambio de apoyos o favores por respaldo político."
+    },
+    {
+      "n": 34,
+      "subject": "Ciencias Sociales",
+      "topic": "Economía e historia económica",
+      "question": "¿Qué organismo de integración económica centroamericana se creó en 1960 mediante el Tratado General de Integración Económica Centroamericana?",
+      "answer": "El Mercado Común Centroamericano (MCCA)."
+    },
+    {
+      "n": 35,
+      "subject": "Ciencias Sociales",
+      "topic": "Economía e historia económica",
+      "question": "¿Qué estrategia económica buscaba fabricar dentro del país productos antes importados?",
+      "answer": "La industrialización por sustitución de importaciones."
+    },
+    {
+      "n": 36,
+      "subject": "Ciencias Sociales",
+      "topic": "Historia salvadoreña",
+      "question": "¿En qué mes de 1969 ocurrió el conflicto bélico entre El Salvador y Honduras?",
+      "answer": "Julio de 1969."
+    },
+    {
+      "n": 37,
+      "subject": "Ciencias Sociales",
+      "topic": "Historia salvadoreña",
+      "question": "¿En qué año comenzó la dictadura de Maximiliano Hernández Martínez en El Salvador?",
+      "answer": "En 1931."
+    },
+    {
+      "n": 38,
+      "subject": "Ciencias Sociales",
+      "topic": "Historia salvadoreña",
+      "question": "¿Qué acontecimiento de 1932 está asociado con la represión masiva de campesinos e indígenas en El Salvador?",
+      "answer": "La Matanza de 1932."
+    },
+    {
+      "n": 39,
+      "subject": "Ciencias Sociales",
+      "topic": "Historia salvadoreña",
+      "question": "¿En qué año tuvo lugar la huelga de brazos caídos contra Hernández Martínez?",
+      "answer": "En 1944."
+    },
+    {
+      "n": 40,
+      "subject": "Ciencias Sociales",
+      "topic": "Historia salvadoreña",
+      "question": "¿En qué fecha se produjo el golpe de Estado que derrocó al gobierno de Carlos Humberto Romero?",
+      "answer": "El 15 de octubre de 1979."
+    },
+    {
+      "n": 41,
+      "subject": "Ciencias Sociales",
+      "topic": "Historia salvadoreña",
+      "question": "¿Qué hecho desencadenó una amplia protesta internacional el 24 de marzo de 1980 en El Salvador?",
+      "answer": "El asesinato de monseñor Óscar Arnulfo Romero."
+    },
+    {
+      "n": 42,
+      "subject": "Ciencias Sociales",
+      "topic": "Historia salvadoreña",
+      "question": "¿En qué año se formó el Frente Farabundo Martí para la Liberación Nacional (FMLN)?",
+      "answer": "En 1980."
+    },
+    {
+      "n": 43,
+      "subject": "Ciencias Sociales",
+      "topic": "Historia salvadoreña",
+      "question": "¿En qué año tuvo lugar la ofensiva guerrillera «Hasta el tope» en El Salvador?",
+      "answer": "En 1989."
+    },
+    {
+      "n": 44,
+      "subject": "Ciencias Sociales",
+      "topic": "Historia salvadoreña",
+      "question": "¿En qué fecha fueron firmados los Acuerdos de Paz de Chapultepec?",
+      "answer": "El 16 de enero de 1992."
+    },
+    {
+      "n": 45,
+      "subject": "Ciencias Sociales",
+      "topic": "Historia salvadoreña",
+      "question": "¿Qué organismo internacional participó como mediador en el proceso de paz salvadoreño?",
+      "answer": "La Organización de las Naciones Unidas (ONU)."
+    },
+    {
+      "n": 46,
+      "subject": "Ciencias Sociales",
+      "topic": "Historia salvadoreña",
+      "question": "¿Qué misión de la ONU verificó aspectos del proceso de paz salvadoreño?",
+      "answer": "ONUSAL, Misión de Observadores de las Naciones Unidas en El Salvador."
+    },
+    {
+      "n": 47,
+      "subject": "Ciencias Sociales",
+      "topic": "Historia salvadoreña",
+      "question": "¿Qué institución militarizada de seguridad fue sustituida por la nueva Policía Nacional Civil tras los acuerdos?",
+      "answer": "La antigua estructura de cuerpos de seguridad pública, reemplazada por la PNC civil."
+    },
+    {
+      "n": 48,
+      "subject": "Ciencias Sociales",
+      "topic": "Historia salvadoreña",
+      "question": "¿Qué significa desmovilización en un proceso de paz?",
+      "answer": "La salida organizada de combatientes de estructuras armadas y su reincorporación a la vida civil."
+    },
+    {
+      "n": 49,
+      "subject": "Ciencias Sociales",
+      "topic": "Historia mundial",
+      "question": "¿Cuáles fueron las dos grandes potencias rivales durante la Guerra Fría?",
+      "answer": "Estados Unidos y la Unión Soviética."
+    },
+    {
+      "n": 50,
+      "subject": "Ciencias Sociales",
+      "topic": "Historia mundial",
+      "question": "¿En qué año terminó la Segunda Guerra Mundial?",
+      "answer": "En 1945."
+    },
+    {
+      "n": 51,
+      "subject": "Ciencias Sociales",
+      "topic": "Historia mundial",
+      "question": "¿En qué año se constituyó la Organización de las Naciones Unidas?",
+      "answer": "En 1945."
+    },
+    {
+      "n": 52,
+      "subject": "Ciencias Sociales",
+      "topic": "Historia mundial",
+      "question": "¿Qué alianza militar occidental se fundó en 1949?",
+      "answer": "La Organización del Tratado del Atlántico Norte (OTAN)."
+    },
+    {
+      "n": 53,
+      "subject": "Ciencias Sociales",
+      "topic": "Historia mundial",
+      "question": "¿Qué alianza militar del bloque socialista europeo surgió en 1955?",
+      "answer": "El Pacto de Varsovia."
+    },
+    {
+      "n": 54,
+      "subject": "Ciencias Sociales",
+      "topic": "Historia mundial",
+      "question": "¿En qué año se produjo la caída del Muro de Berlín?",
+      "answer": "En 1989."
+    },
+    {
+      "n": 55,
+      "subject": "Ciencias Sociales",
+      "topic": "Historia mundial",
+      "question": "¿En qué año se disolvió oficialmente la Unión Soviética?",
+      "answer": "En 1991."
+    },
+    {
+      "n": 56,
+      "subject": "Ciencias Sociales",
+      "topic": "Historia mundial",
+      "question": "¿Qué significa un mundo bipolar en relaciones internacionales?",
+      "answer": "Un sistema de poder dominado por dos grandes bloques rivales."
+    },
+    {
+      "n": 57,
+      "subject": "Ciencias Sociales",
+      "topic": "Historia mundial y globalización",
+      "question": "¿Qué fue la Revolución Industrial iniciada en Gran Bretaña?",
+      "answer": "Un proceso de mecanización y transformación de la producción, iniciado en la segunda mitad del siglo XVIII."
+    },
+    {
+      "n": 58,
+      "subject": "Ciencias Sociales",
+      "topic": "Historia mundial y globalización",
+      "question": "¿Qué cambio tecnológico caracterizó la Primera Revolución Industrial?",
+      "answer": "El uso extendido de máquinas de vapor en la producción y el transporte."
+    },
+    {
+      "n": 59,
+      "subject": "Ciencias Sociales",
+      "topic": "Historia mundial y globalización",
+      "question": "¿Qué tecnología destacó en la Segunda Revolución Industrial?",
+      "answer": "La electricidad, junto con el desarrollo industrial del acero y la química."
+    },
+    {
+      "n": 60,
+      "subject": "Ciencias Sociales",
+      "topic": "Historia mundial y globalización",
+      "question": "¿Qué se entiende por globalización económica?",
+      "answer": "La creciente interdependencia internacional del comercio, la inversión y la producción."
+    },
+    {
+      "n": 61,
+      "subject": "Ciencias Sociales",
+      "topic": "Historia mundial y globalización",
+      "question": "¿Qué es una empresa transnacional?",
+      "answer": "Una empresa con operaciones productivas o comerciales en más de un país."
+    },
+    {
+      "n": 62,
+      "subject": "Ciencias Sociales",
+      "topic": "Sociedad y cultura",
+      "question": "¿Qué función cumple una embajada?",
+      "answer": "Representar diplomáticamente a un Estado ante otro Estado."
+    },
+    {
+      "n": 63,
+      "subject": "Ciencias Sociales",
+      "topic": "Sociedad y cultura",
+      "question": "¿Qué se entiende por diversidad cultural?",
+      "answer": "La coexistencia de diferentes prácticas, identidades y expresiones culturales."
+    },
+    {
+      "n": 64,
+      "subject": "Ciencias Sociales",
+      "topic": "Población y medio ambiente",
+      "question": "¿Qué es la urbanización?",
+      "answer": "El aumento de la población que vive en áreas urbanas y la expansión de estas áreas."
+    },
+    {
+      "n": 65,
+      "subject": "Ciencias Sociales",
+      "topic": "Población y medio ambiente",
+      "question": "¿Qué es la densidad de población?",
+      "answer": "El número de habitantes por unidad de superficie."
+    },
+    {
+      "n": 66,
+      "subject": "Ciencias Sociales",
+      "topic": "Migración y sociedad de la información",
+      "question": "¿Qué significa migración internacional?",
+      "answer": "El desplazamiento de personas entre países con cambio de residencia."
+    },
+    {
+      "n": 67,
+      "subject": "Ciencias Sociales",
+      "topic": "Migración y sociedad de la información",
+      "question": "¿Qué es una remesa familiar?",
+      "answer": "Una transferencia de dinero enviada habitualmente por una persona migrante a su familia."
+    },
+    {
+      "n": 68,
+      "subject": "Ciencias Sociales",
+      "topic": "Migración y sociedad de la información",
+      "question": "¿Qué significa brecha digital?",
+      "answer": "La desigualdad en el acceso y uso efectivo de tecnologías de información y comunicación."
+    },
+    {
+      "n": 69,
+      "subject": "Ciencias Sociales",
+      "topic": "Democracia y derechos humanos",
+      "question": "¿Qué es el Estado de derecho?",
+      "answer": "Un sistema en el que autoridades y particulares están sujetos a normas jurídicas aplicables."
+    },
+    {
+      "n": 70,
+      "subject": "Ciencias Sociales",
+      "topic": "Democracia y derechos humanos",
+      "question": "¿Qué implica el principio de separación de poderes?",
+      "answer": "La distribución de funciones estatales para limitar la concentración del poder."
+    },
+    {
+      "n": 71,
+      "subject": "Ciencias Sociales",
+      "topic": "Democracia y derechos humanos",
+      "question": "¿Qué poder del Estado salvadoreño ejerce principalmente la función de legislar?",
+      "answer": "La Asamblea Legislativa."
+    },
+    {
+      "n": 72,
+      "subject": "Ciencias Sociales",
+      "topic": "Democracia y derechos humanos",
+      "question": "¿Qué poder del Estado se encarga principalmente de administrar justicia?",
+      "answer": "El Órgano Judicial."
+    },
+    {
+      "n": 73,
+      "subject": "Ciencias Sociales",
+      "topic": "Democracia y derechos humanos",
+      "question": "¿Qué es el sufragio universal?",
+      "answer": "El derecho de la ciudadanía habilitada a votar sin exclusiones arbitrarias."
+    },
+    {
+      "n": 74,
+      "subject": "Ciencias Sociales",
+      "topic": "Democracia y derechos humanos",
+      "question": "¿Cuándo fue aprobada la Declaración Universal de Derechos Humanos?",
+      "answer": "El 10 de diciembre de 1948."
+    },
+    {
+      "n": 75,
+      "subject": "Ciencias Sociales",
+      "topic": "Democracia y derechos humanos",
+      "question": "¿Qué derechos integran tradicionalmente la primera generación de derechos humanos?",
+      "answer": "Los derechos civiles y políticos."
+    },
+    {
+      "n": 76,
+      "subject": "Ciencias Sociales",
+      "topic": "Democracia y derechos humanos",
+      "question": "¿Qué derechos integran tradicionalmente la segunda generación de derechos humanos?",
+      "answer": "Los derechos económicos, sociales y culturales."
+    },
+    {
+      "n": 77,
+      "subject": "Ciencias Sociales",
+      "topic": "Democracia y derechos humanos",
+      "question": "¿Con qué generación de derechos se relacionan didácticamente la paz y el desarrollo de los pueblos?",
+      "answer": "Con los derechos de solidaridad o de tercera generación."
+    },
+    {
+      "n": 78,
+      "subject": "Ciencias Sociales",
+      "topic": "Democracia y derechos humanos",
+      "question": "¿Qué significa no discriminación en derechos humanos?",
+      "answer": "Garantizar derechos sin distinciones injustificadas por condiciones personales o sociales."
+    },
+    {
+      "n": 79,
+      "subject": "Ciencias Sociales",
+      "topic": "Población y medio ambiente",
+      "question": "¿Qué tres dimensiones se consideran en el desarrollo sostenible?",
+      "answer": "La económica, la social y la ambiental."
+    },
+    {
+      "n": 80,
+      "subject": "Ciencias Sociales",
+      "topic": "Población y medio ambiente",
+      "question": "¿Cuál es la diferencia entre reciclaje y reutilización?",
+      "answer": "Reciclar transforma materiales para producir otros; reutilizar vuelve a usar un objeto."
+    },
+    {
+      "n": 81,
+      "subject": "Ciencias Sociales",
+      "topic": "Finanzas públicas",
+      "question": "¿Para qué sirve la recaudación tributaria dentro de las finanzas públicas?",
+      "answer": "Para financiar, entre otros fines, servicios, infraestructura y obligaciones del Estado."
+    },
+    {
+      "n": 82,
+      "subject": "Ciencias Sociales",
+      "topic": "Finanzas públicas",
+      "question": "¿Qué se entiende por déficit fiscal?",
+      "answer": "La situación en la que los gastos públicos superan los ingresos públicos durante un período."
+    },
+    {
+      "n": 83,
+      "subject": "Ciencias Sociales",
+      "topic": "Finanzas públicas",
+      "question": "¿Cuál es la principal diferencia entre PIB nominal y PIB real?",
+      "answer": "El PIB real ajusta las variaciones de precios; el nominal se expresa a precios corrientes."
+    },
+    {
+      "n": 84,
+      "subject": "Ciencias Sociales",
+      "topic": "Finanzas públicas",
+      "question": "¿Qué indicador expresa el aumento general y sostenido del nivel de precios?",
+      "answer": "La inflación."
+    },
+    {
+      "n": 85,
+      "subject": "Biología",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "¿Qué organelo de las células eucariotas participa directamente en la producción de ATP mediante respiración celular aeróbica?",
+      "answer": "Mitocondria"
+    },
+    {
+      "n": 86,
+      "subject": "Biología",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "El proceso por el cual las plantas transforman energía lumínica en energía química se denomina:",
+      "answer": "Fotosíntesis"
+    },
+    {
+      "n": 87,
+      "subject": "Biología",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "La mayor parte de la fase de síntesis de ADN del ciclo celular ocurre durante:",
+      "answer": "Interfase, período S"
+    },
+    {
+      "n": 88,
+      "subject": "Biología",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "Una característica de la mitosis en una célula somática diploide es que produce:",
+      "answer": "Dos células hijas con igual número de cromosomas"
+    },
+    {
+      "n": 89,
+      "subject": "Biología",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "¿Durante qué proceso se reduce a la mitad el número de cromosomas para formar células sexuales?",
+      "answer": "Meiosis"
+    },
+    {
+      "n": 90,
+      "subject": "Biología",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "¿Cuál componente del ADN se aparea normalmente con la adenina?",
+      "answer": "Timina"
+    },
+    {
+      "n": 91,
+      "subject": "Biología",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "El paso de información genética desde ADN hacia una molécula de ARN mensajero se llama:",
+      "answer": "Transcripción"
+    },
+    {
+      "n": 92,
+      "subject": "Biología",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "¿En qué estructura celular se lleva a cabo la traducción del ARN mensajero a proteína?",
+      "answer": "Ribosomas"
+    },
+    {
+      "n": 93,
+      "subject": "Biología",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "Si dos progenitores heterocigotos Aa se cruzan (Aa × Aa), ¿qué probabilidad tiene su descendencia de presentar el genotipo aa?",
+      "answer": "25 %"
+    },
+    {
+      "n": 94,
+      "subject": "Biología",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "¿Cuántos cromosomas posee normalmente una célula somática humana?",
+      "answer": "46"
+    },
+    {
+      "n": 95,
+      "subject": "Biología",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "¿Qué nombre recibe una alteración permanente de la secuencia de nucleótidos del material genético?",
+      "answer": "Mutación"
+    },
+    {
+      "n": 96,
+      "subject": "Biología",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "¿Qué característica permite distinguir a una célula procariota de una eucariota?",
+      "answer": "Carecen de núcleo delimitado por membrana"
+    },
+    {
+      "n": 97,
+      "subject": "Biología",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "¿En qué dominio se clasifican los animales, las plantas y los hongos?",
+      "answer": "Eukarya"
+    },
+    {
+      "n": 98,
+      "subject": "Biología",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "La diferencia química característica de las membranas de arqueas y bacterias incluye que:",
+      "answer": "En arqueas son comunes enlaces éter en sus lípidos"
+    },
+    {
+      "n": 99,
+      "subject": "Biología",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "En la clasificación biológica, el nivel inmediatamente superior al reino es:",
+      "answer": "Dominio"
+    },
+    {
+      "n": 100,
+      "subject": "Biología",
+      "topic": "La célula y el metabolismo",
+      "question": "¿Qué estructura regula el intercambio de sustancias entre la célula y su entorno?",
+      "answer": "La membrana plasmática."
+    },
+    {
+      "n": 101,
+      "subject": "Biología",
+      "topic": "La célula y el metabolismo",
+      "question": "¿Qué organelo contiene el material genético principal de una célula eucariota?",
+      "answer": "El núcleo."
+    },
+    {
+      "n": 102,
+      "subject": "Biología",
+      "topic": "La célula y el metabolismo",
+      "question": "¿En qué organelo se realiza la fotosíntesis de las células vegetales?",
+      "answer": "En el cloroplasto."
+    },
+    {
+      "n": 103,
+      "subject": "Biología",
+      "topic": "La célula y el metabolismo",
+      "question": "¿Qué estructura celular sintetiza proteínas?",
+      "answer": "Los ribosomas."
+    },
+    {
+      "n": 104,
+      "subject": "Biología",
+      "topic": "La célula y el metabolismo",
+      "question": "¿Qué organelo modifica, clasifica y empaqueta numerosas proteínas?",
+      "answer": "El aparato de Golgi."
+    },
+    {
+      "n": 105,
+      "subject": "Biología",
+      "topic": "La célula y el metabolismo",
+      "question": "¿Qué organelo vegetal almacena agua y contribuye a la turgencia?",
+      "answer": "La vacuola central."
+    },
+    {
+      "n": 106,
+      "subject": "Biología",
+      "topic": "La célula y el metabolismo",
+      "question": "¿Qué función cumple la pared celular de las plantas?",
+      "answer": "Proporcionar soporte y protección mecánica."
+    },
+    {
+      "n": 107,
+      "subject": "Biología",
+      "topic": "La célula y el metabolismo",
+      "question": "¿Qué significa homeostasis?",
+      "answer": "Mantenimiento de condiciones internas relativamente estables."
+    },
+    {
+      "n": 108,
+      "subject": "Biología",
+      "topic": "La célula y el metabolismo",
+      "question": "¿Qué es el anabolismo?",
+      "answer": "El conjunto de reacciones que forman moléculas complejas a partir de otras simples, consumiendo energía."
+    },
+    {
+      "n": 109,
+      "subject": "Biología",
+      "topic": "La célula y el metabolismo",
+      "question": "¿Qué es el catabolismo?",
+      "answer": "El conjunto de reacciones que degradan moléculas complejas y liberan energía aprovechable."
+    },
+    {
+      "n": 110,
+      "subject": "Biología",
+      "topic": "La célula y el metabolismo",
+      "question": "¿Qué gas se libera típicamente durante la fotosíntesis oxigénica?",
+      "answer": "Oxígeno (O₂)."
+    },
+    {
+      "n": 111,
+      "subject": "Biología",
+      "topic": "La célula y el metabolismo",
+      "question": "¿Qué molécula es la principal moneda de energía utilizable en la célula?",
+      "answer": "El ATP (adenosín trifosfato)."
+    },
+    {
+      "n": 112,
+      "subject": "Biología",
+      "topic": "Ciclo celular",
+      "question": "¿En qué fase del ciclo celular se replica el ADN?",
+      "answer": "En la fase S de la interfase."
+    },
+    {
+      "n": 113,
+      "subject": "Biología",
+      "topic": "Ciclo celular",
+      "question": "¿Qué ocurre durante la metafase de la mitosis?",
+      "answer": "Los cromosomas se alinean en la región ecuatorial de la célula."
+    },
+    {
+      "n": 114,
+      "subject": "Biología",
+      "topic": "Ciclo celular",
+      "question": "¿Qué ocurre durante la anafase mitótica?",
+      "answer": "Las cromátidas hermanas se separan y migran a polos opuestos."
+    },
+    {
+      "n": 115,
+      "subject": "Biología",
+      "topic": "Ciclo celular",
+      "question": "¿Qué significa citocinesis?",
+      "answer": "La división del citoplasma que separa las células hijas."
+    },
+    {
+      "n": 116,
+      "subject": "Biología",
+      "topic": "Ciclo celular",
+      "question": "¿Cuál es el resultado típico de la meiosis completa de una célula diploide?",
+      "answer": "Cuatro células haploides, si las divisiones y la citocinesis se completan de forma convencional."
+    },
+    {
+      "n": 117,
+      "subject": "Biología",
+      "topic": "Genética molecular",
+      "question": "¿Cuál es el azúcar presente en el ADN?",
+      "answer": "La desoxirribosa."
+    },
+    {
+      "n": 118,
+      "subject": "Biología",
+      "topic": "Genética molecular",
+      "question": "¿Cuál es el azúcar presente en el ARN?",
+      "answer": "La ribosa."
+    },
+    {
+      "n": 119,
+      "subject": "Biología",
+      "topic": "Genética molecular",
+      "question": "¿Cuál base nitrogenada está presente en ARN y sustituye a la timina?",
+      "answer": "El uracilo."
+    },
+    {
+      "n": 120,
+      "subject": "Biología",
+      "topic": "Genética molecular",
+      "question": "¿Qué función general cumple el ARN mensajero?",
+      "answer": "Transportar la información codificante del ADN a los ribosomas."
+    },
+    {
+      "n": 121,
+      "subject": "Biología",
+      "topic": "Genética molecular",
+      "question": "¿Qué función cumple el ARN de transferencia?",
+      "answer": "Transportar aminoácidos y reconocer codones durante la traducción."
+    },
+    {
+      "n": 122,
+      "subject": "Biología",
+      "topic": "Genética molecular",
+      "question": "¿Qué es un codón?",
+      "answer": "Una secuencia de tres nucleótidos del ARN mensajero que especifica un aminoácido o una señal de terminación."
+    },
+    {
+      "n": 123,
+      "subject": "Biología",
+      "topic": "Genética molecular",
+      "question": "¿Qué es la replicación del ADN?",
+      "answer": "La duplicación de una molécula de ADN antes de la división celular."
+    },
+    {
+      "n": 124,
+      "subject": "Biología",
+      "topic": "Genética molecular",
+      "question": "¿Qué es un gen?",
+      "answer": "Una secuencia de ADN que contiene información para producir un producto funcional, como ARN o proteína."
+    },
+    {
+      "n": 125,
+      "subject": "Biología",
+      "topic": "Herencia mendeliana",
+      "question": "¿Qué es un alelo?",
+      "answer": "Una variante de un gen situada en un locus determinado."
+    },
+    {
+      "n": 126,
+      "subject": "Biología",
+      "topic": "Herencia mendeliana",
+      "question": "¿Qué significa genotipo?",
+      "answer": "La composición genética de un organismo respecto de uno o varios loci."
+    },
+    {
+      "n": 127,
+      "subject": "Biología",
+      "topic": "Herencia mendeliana",
+      "question": "¿Qué significa fenotipo?",
+      "answer": "El conjunto de características observables resultantes de la expresión genética y la interacción con el ambiente."
+    },
+    {
+      "n": 128,
+      "subject": "Biología",
+      "topic": "Herencia mendeliana",
+      "question": "¿Qué es un individuo homocigoto para un gen?",
+      "answer": "El que posee dos alelos iguales de ese gen en un locus diploide."
+    },
+    {
+      "n": 129,
+      "subject": "Biología",
+      "topic": "Herencia mendeliana",
+      "question": "¿Qué es un individuo heterocigoto para un gen?",
+      "answer": "El que posee dos alelos diferentes de ese gen en un locus diploide."
+    },
+    {
+      "n": 130,
+      "subject": "Biología",
+      "topic": "Herencia mendeliana",
+      "question": "En un cruce Aa × aa con dominancia completa, ¿qué proporción esperada de descendientes es Aa?",
+      "answer": "50 %."
+    },
+    {
+      "n": 131,
+      "subject": "Biología",
+      "topic": "Herencia mendeliana",
+      "question": "En un cruce Aa × Aa, ¿qué proporción genotípica se espera?",
+      "answer": "1 AA : 2 Aa : 1 aa."
+    },
+    {
+      "n": 132,
+      "subject": "Biología",
+      "topic": "Herencia mendeliana",
+      "question": "¿Qué significa que un rasgo sea recesivo en dominancia completa?",
+      "answer": "Que se manifiesta en el fenotipo cuando no hay un alelo dominante que lo enmascare."
+    },
+    {
+      "n": 133,
+      "subject": "Biología",
+      "topic": "Genética molecular",
+      "question": "¿Qué es una trisomía?",
+      "answer": "La presencia de tres copias de un cromosoma concreto en lugar de dos."
+    },
+    {
+      "n": 134,
+      "subject": "Biología",
+      "topic": "Genética molecular",
+      "question": "¿Qué alteración cromosómica causa habitualmente el síndrome de Down?",
+      "answer": "La trisomía del cromosoma 21."
+    },
+    {
+      "n": 135,
+      "subject": "Biología",
+      "topic": "Taxonomía y biodiversidad",
+      "question": "¿Cuáles son los tres dominios del sistema de clasificación de tres dominios?",
+      "answer": "Bacteria, Archaea y Eukarya."
+    },
+    {
+      "n": 136,
+      "subject": "Biología",
+      "topic": "Taxonomía y biodiversidad",
+      "question": "¿En qué dominio se clasifican los hongos?",
+      "answer": "Eukarya."
+    },
+    {
+      "n": 137,
+      "subject": "Biología",
+      "topic": "Taxonomía y biodiversidad",
+      "question": "¿Qué ciencia estudia los hongos?",
+      "answer": "La micología."
+    },
+    {
+      "n": 138,
+      "subject": "Biología",
+      "topic": "Taxonomía y biodiversidad",
+      "question": "¿Qué asociación simbiótica forman un hongo y un organismo fotosintético?",
+      "answer": "Un liquen."
+    },
+    {
+      "n": 139,
+      "subject": "Biología",
+      "topic": "Taxonomía y biodiversidad",
+      "question": "¿Qué grupo de plantas produce flores y semillas encerradas en frutos?",
+      "answer": "Las angiospermas."
+    },
+    {
+      "n": 140,
+      "subject": "Biología",
+      "topic": "Taxonomía y biodiversidad",
+      "question": "¿Qué es una especie en el concepto biológico clásico?",
+      "answer": "Un conjunto de poblaciones cuyos individuos pueden reproducirse entre sí y producir descendencia fértil en condiciones naturales."
+    },
+    {
+      "n": 141,
+      "subject": "Biología",
+      "topic": "La célula y el metabolismo",
+      "question": "¿Qué es un organismo autótrofo?",
+      "answer": "El que produce materia orgánica a partir de sustancias inorgánicas usando una fuente de energía."
+    },
+    {
+      "n": 142,
+      "subject": "Biología",
+      "topic": "Taxonomía y biodiversidad",
+      "question": "¿Qué nombre reciben los productores primarios en una cadena alimentaria?",
+      "answer": "Organismos autótrofos, como plantas y algas fotosintéticas."
+    },
+    {
+      "n": 143,
+      "subject": "Física",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "¿Cuál es la unidad del Sistema Internacional para medir la aceleración?",
+      "answer": "m/s²"
+    },
+    {
+      "n": 144,
+      "subject": "Física",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "¿Cuántos centímetros cúbicos equivalen a 1 metro cúbico?",
+      "answer": "10⁶"
+    },
+    {
+      "n": 145,
+      "subject": "Física",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "El número 0.000045 expresado correctamente en notación científica es:",
+      "answer": "4.5 × 10⁻⁵"
+    },
+    {
+      "n": 146,
+      "subject": "Física",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "Una gráfica de posición respecto al tiempo es una línea recta de pendiente constante positiva. Esto indica:",
+      "answer": "Velocidad constante positiva"
+    },
+    {
+      "n": 147,
+      "subject": "Física",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "Si un cuerpo se desplaza 3 m al este y luego 4 m al norte, ¿cuánto mide el desplazamiento resultante?",
+      "answer": "5 m"
+    },
+    {
+      "n": 148,
+      "subject": "Física",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "Una magnitud vectorial se distingue de una escalar porque incluye:",
+      "answer": "Módulo, dirección y sentido"
+    },
+    {
+      "n": 149,
+      "subject": "Física",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "Un vehículo recorre 120 km en 2 h manteniendo rapidez constante. ¿Cuál es su rapidez?",
+      "answer": "60 km/h"
+    },
+    {
+      "n": 150,
+      "subject": "Física",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "Un móvil parte del reposo y alcanza 20 m/s en 5 s con aceleración constante. ¿Cuál es su aceleración?",
+      "answer": "4 m/s²"
+    },
+    {
+      "n": 151,
+      "subject": "Física",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "En ausencia de resistencia del aire, ¿cuál es la aceleración de un objeto lanzado verticalmente hacia arriba cuando alcanza la altura máxima?",
+      "answer": "Aproximadamente 9.8 m/s² hacia abajo"
+    },
+    {
+      "n": 152,
+      "subject": "Física",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "Desde el reposo, un cuerpo cae libremente durante 2 s. Usando g = 10 m/s², ¿qué distancia recorre?",
+      "answer": "20 m"
+    },
+    {
+      "n": 153,
+      "subject": "Física",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "En un tiro parabólico ideal, despreciando el rozamiento, ¿qué componente de la velocidad permanece constante?",
+      "answer": "La horizontal"
+    },
+    {
+      "n": 154,
+      "subject": "Física",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "Un proyectil es lanzado horizontalmente desde cierta altura. Si no hay resistencia del aire, su movimiento vertical es:",
+      "answer": "Uniformemente acelerado por la gravedad"
+    },
+    {
+      "n": 155,
+      "subject": "Física",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "Dos vectores de 5 N tienen igual dirección y sentidos opuestos. ¿Cuál es la magnitud de su suma?",
+      "answer": "0 N"
+    },
+    {
+      "n": 156,
+      "subject": "Física",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "En una gráfica velocidad-tiempo, ¿qué representa el área algebraica comprendida entre la curva y el eje del tiempo?",
+      "answer": "El desplazamiento"
+    },
+    {
+      "n": 157,
+      "subject": "Física",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "Un automóvil cambia su velocidad de 10 m/s a 30 m/s en 4 s. ¿Cuánto vale la aceleración media?",
+      "answer": "5 m/s²"
+    },
+    {
+      "n": 158,
+      "subject": "Física",
+      "topic": "Magnitudes y unidades",
+      "question": "¿Qué es una magnitud escalar?",
+      "answer": "Una magnitud descrita por un valor numérico y su unidad, sin dirección."
+    },
+    {
+      "n": 159,
+      "subject": "Física",
+      "topic": "Magnitudes y unidades",
+      "question": "¿Qué es una magnitud vectorial?",
+      "answer": "Una magnitud con módulo, dirección y sentido."
+    },
+    {
+      "n": 160,
+      "subject": "Física",
+      "topic": "Magnitudes y unidades",
+      "question": "¿Cuál es la unidad básica del SI para la longitud?",
+      "answer": "El metro (m)."
+    },
+    {
+      "n": 161,
+      "subject": "Física",
+      "topic": "Magnitudes y unidades",
+      "question": "¿Cuál es la unidad básica del SI para la masa?",
+      "answer": "El kilogramo (kg)."
+    },
+    {
+      "n": 162,
+      "subject": "Física",
+      "topic": "Magnitudes y unidades",
+      "question": "¿Cuál es la unidad básica del SI para el tiempo?",
+      "answer": "El segundo (s)."
+    },
+    {
+      "n": 163,
+      "subject": "Física",
+      "topic": "Magnitudes y unidades",
+      "question": "¿Cuál es la unidad derivada del SI para medir fuerza?",
+      "answer": "El newton (N), equivalente a kg·m/s²."
+    },
+    {
+      "n": 164,
+      "subject": "Física",
+      "topic": "Magnitudes y unidades",
+      "question": "¿Cuántos metros equivalen a 2.5 kilómetros?",
+      "answer": "2 500 metros."
+    },
+    {
+      "n": 165,
+      "subject": "Física",
+      "topic": "Magnitudes y unidades",
+      "question": "¿Cuántos mililitros contiene un litro?",
+      "answer": "1 000 mL."
+    },
+    {
+      "n": 166,
+      "subject": "Física",
+      "topic": "Magnitudes y unidades",
+      "question": "¿Cómo se expresa 0.00062 en notación científica?",
+      "answer": "6.2 × 10⁻⁴."
+    },
+    {
+      "n": 167,
+      "subject": "Física",
+      "topic": "Proporcionalidad y cinemática",
+      "question": "¿Qué pendiente tiene una gráfica distancia-tiempo de un móvil con rapidez constante de 8 m/s?",
+      "answer": "8 m/s."
+    },
+    {
+      "n": 168,
+      "subject": "Física",
+      "topic": "Proporcionalidad y cinemática",
+      "question": "¿Qué significa proporcionalidad directa entre dos variables?",
+      "answer": "Que su cociente permanece constante: y = kx."
+    },
+    {
+      "n": 169,
+      "subject": "Física",
+      "topic": "Proporcionalidad y cinemática",
+      "question": "¿Qué significa proporcionalidad inversa entre dos variables no nulas?",
+      "answer": "Que su producto permanece constante: y = k/x."
+    },
+    {
+      "n": 170,
+      "subject": "Física",
+      "topic": "Proporcionalidad y cinemática",
+      "question": "Si se recorren 150 km en 3 horas, ¿cuál es la rapidez media?",
+      "answer": "50 km/h."
+    },
+    {
+      "n": 171,
+      "subject": "Física",
+      "topic": "Proporcionalidad y cinemática",
+      "question": "¿Cuál es la diferencia entre distancia y desplazamiento?",
+      "answer": "La distancia es la longitud de la trayectoria; el desplazamiento es el vector desde el punto inicial al final."
+    },
+    {
+      "n": 172,
+      "subject": "Física",
+      "topic": "Proporcionalidad y cinemática",
+      "question": "¿Cuál es la fórmula de la aceleración media en una dimensión?",
+      "answer": "a = (velocidad final − velocidad inicial) / tiempo transcurrido."
+    },
+    {
+      "n": 173,
+      "subject": "Física",
+      "topic": "Proporcionalidad y cinemática",
+      "question": "Un móvil va a 6 m/s durante 8 s. ¿Qué distancia recorre con movimiento rectilíneo uniforme?",
+      "answer": "48 m."
+    },
+    {
+      "n": 174,
+      "subject": "Física",
+      "topic": "Proporcionalidad y cinemática",
+      "question": "Un automóvil aumenta su velocidad de 5 m/s a 17 m/s en 3 s. ¿Cuál es su aceleración media?",
+      "answer": "4 m/s²."
+    },
+    {
+      "n": 175,
+      "subject": "Física",
+      "topic": "Proporcionalidad y cinemática",
+      "question": "Un móvil parte del reposo con aceleración de 2 m/s² durante 6 s. ¿Cuál es su velocidad final?",
+      "answer": "12 m/s."
+    },
+    {
+      "n": 176,
+      "subject": "Física",
+      "topic": "Proporcionalidad y cinemática",
+      "question": "Si un cuerpo parte del reposo con aceleración constante de 3 m/s² durante 4 s, ¿qué distancia recorre?",
+      "answer": "24 m."
+    },
+    {
+      "n": 177,
+      "subject": "Física",
+      "topic": "Proporcionalidad y cinemática",
+      "question": "¿Qué indica la pendiente de una gráfica velocidad-tiempo?",
+      "answer": "La aceleración."
+    },
+    {
+      "n": 178,
+      "subject": "Física",
+      "topic": "Proporcionalidad y cinemática",
+      "question": "¿Qué representa el área algebraica bajo una gráfica velocidad-tiempo?",
+      "answer": "El desplazamiento."
+    },
+    {
+      "n": 179,
+      "subject": "Física",
+      "topic": "Vectores",
+      "question": "¿Cómo se combinan dos vectores perpendiculares de módulos 6 N y 8 N?",
+      "answer": "La magnitud del vector resultante es 10 N."
+    },
+    {
+      "n": 180,
+      "subject": "Física",
+      "topic": "Vectores",
+      "question": "Dos fuerzas colineales de 9 N y 4 N tienen el mismo sentido. ¿Cuál es su resultante?",
+      "answer": "13 N en el mismo sentido."
+    },
+    {
+      "n": 181,
+      "subject": "Física",
+      "topic": "Vectores",
+      "question": "Dos fuerzas colineales de 9 N y 4 N tienen sentidos opuestos. ¿Cuál es el módulo de la resultante?",
+      "answer": "5 N, en el sentido de la fuerza de 9 N."
+    },
+    {
+      "n": 182,
+      "subject": "Física",
+      "topic": "Vectores",
+      "question": "¿Cuál es la componente horizontal de un vector de 10 N que forma 60° con el eje horizontal positivo?",
+      "answer": "5 N."
+    },
+    {
+      "n": 183,
+      "subject": "Física",
+      "topic": "Vectores",
+      "question": "¿Cuál es la componente vertical de un vector de 10 N que forma 30° con el eje horizontal positivo?",
+      "answer": "5 N."
+    },
+    {
+      "n": 184,
+      "subject": "Física",
+      "topic": "Movimiento vertical y proyectiles",
+      "question": "¿Qué valor aproximado se utiliza para la aceleración gravitatoria cerca de la superficie terrestre?",
+      "answer": "9.8 m/s² hacia abajo."
+    },
+    {
+      "n": 185,
+      "subject": "Física",
+      "topic": "Movimiento vertical y proyectiles",
+      "question": "En caída libre desde el reposo, con g = 10 m/s², ¿qué velocidad lleva un cuerpo tras 3 s?",
+      "answer": "30 m/s hacia abajo."
+    },
+    {
+      "n": 186,
+      "subject": "Física",
+      "topic": "Movimiento vertical y proyectiles",
+      "question": "En caída libre desde el reposo, con g = 10 m/s², ¿cuánto desciende un cuerpo en 3 s?",
+      "answer": "45 m."
+    },
+    {
+      "n": 187,
+      "subject": "Física",
+      "topic": "Movimiento vertical y proyectiles",
+      "question": "Si una pelota se lanza verticalmente hacia arriba a 20 m/s y g = 10 m/s², ¿cuándo llega al punto más alto?",
+      "answer": "A los 2 segundos."
+    },
+    {
+      "n": 188,
+      "subject": "Física",
+      "topic": "Movimiento vertical y proyectiles",
+      "question": "¿Qué valor tiene la velocidad vertical instantánea de un proyectil en el punto más alto?",
+      "answer": "Cero, si se desprecia la resistencia del aire."
+    },
+    {
+      "n": 189,
+      "subject": "Física",
+      "topic": "Movimiento vertical y proyectiles",
+      "question": "¿Qué aceleración experimenta un proyectil en vuelo ideal?",
+      "answer": "La gravitatoria, vertical hacia abajo."
+    },
+    {
+      "n": 190,
+      "subject": "Física",
+      "topic": "Movimiento vertical y proyectiles",
+      "question": "¿De qué depende el tiempo de caída de un proyectil lanzado horizontalmente, si se desprecia el aire?",
+      "answer": "De la altura de lanzamiento y de la aceleración de la gravedad."
+    },
+    {
+      "n": 191,
+      "subject": "Física",
+      "topic": "Movimiento vertical y proyectiles",
+      "question": "Desde una altura de 20 m se suelta un objeto con g = 10 m/s². ¿Cuánto tarda en llegar al suelo?",
+      "answer": "2 segundos."
+    },
+    {
+      "n": 192,
+      "subject": "Física",
+      "topic": "Movimiento vertical y proyectiles",
+      "question": "¿Qué componente de la velocidad de un proyectil ideal se mantiene constante?",
+      "answer": "La componente horizontal."
+    },
+    {
+      "n": 193,
+      "subject": "Física",
+      "topic": "Magnitudes y unidades",
+      "question": "¿Cuál es el equivalente aproximado de 72 km/h en m/s?",
+      "answer": "20 m/s."
+    },
+    {
+      "n": 194,
+      "subject": "Física",
+      "topic": "Vectores",
+      "question": "¿Cuánto vale el desplazamiento neto de una persona que camina 10 m al este y luego 10 m al oeste?",
+      "answer": "0 m."
+    },
+    {
+      "n": 195,
+      "subject": "Física",
+      "topic": "Movimiento vertical y proyectiles",
+      "question": "En un lanzamiento vertical ideal, ¿cuánto tarda en regresar al mismo nivel un objeto lanzado a 15 m/s si g = 10 m/s²?",
+      "answer": "3 segundos."
+    },
+    {
+      "n": 196,
+      "subject": "Química",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "El número atómico Z de un elemento indica la cantidad de:",
+      "answer": "Protones en el núcleo"
+    },
+    {
+      "n": 197,
+      "subject": "Química",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "Dos átomos son isótopos del mismo elemento cuando poseen:",
+      "answer": "Igual número de protones y distinto número de neutrones"
+    },
+    {
+      "n": 198,
+      "subject": "Química",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "Un mol de entidades contiene aproximadamente:",
+      "answer": "6.022 × 10²³ entidades"
+    },
+    {
+      "n": 199,
+      "subject": "Química",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "El número cuántico principal, simbolizado por n, está relacionado principalmente con:",
+      "answer": "El nivel energético principal"
+    },
+    {
+      "n": 200,
+      "subject": "Química",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "¿Qué configuración electrónica corresponde a un átomo neutro de sodio (Z = 11) en estado fundamental?",
+      "answer": "1s² 2s² 2p⁶ 3s¹"
+    },
+    {
+      "n": 201,
+      "subject": "Química",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "En la tabla periódica, el radio atómico generalmente aumenta cuando:",
+      "answer": "Se desciende en un grupo"
+    },
+    {
+      "n": 202,
+      "subject": "Química",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "¿Qué enlace se forma habitualmente por transferencia de electrones entre un metal y un no metal?",
+      "answer": "Iónico"
+    },
+    {
+      "n": 203,
+      "subject": "Química",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "Si se disuelven 0.5 mol de soluto para preparar 2.0 L de solución, ¿cuál es su molaridad?",
+      "answer": "0.25 mol/L"
+    },
+    {
+      "n": 204,
+      "subject": "Química",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "¿Cuál es la ecuación balanceada de formación de agua a partir de hidrógeno y oxígeno?",
+      "answer": "2H₂ + O₂ → 2H₂O"
+    },
+    {
+      "n": 205,
+      "subject": "Química",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "Una disolución acuosa con pH = 3, a 25 °C, se clasifica como:",
+      "answer": "Ácida"
+    },
+    {
+      "n": 206,
+      "subject": "Química",
+      "topic": "Clasificación de la materia",
+      "question": "¿Qué es la materia?",
+      "answer": "Todo aquello que tiene masa y ocupa espacio."
+    },
+    {
+      "n": 207,
+      "subject": "Química",
+      "topic": "Clasificación de la materia",
+      "question": "¿Qué es una sustancia pura?",
+      "answer": "Materia de composición química definida y propiedades características."
+    },
+    {
+      "n": 208,
+      "subject": "Química",
+      "topic": "Clasificación de la materia",
+      "question": "¿Qué diferencia básica hay entre elemento y compuesto?",
+      "answer": "Un elemento tiene átomos con igual número atómico; un compuesto contiene elementos unidos químicamente en proporciones definidas."
+    },
+    {
+      "n": 209,
+      "subject": "Química",
+      "topic": "Clasificación de la materia",
+      "question": "¿Qué diferencia una mezcla homogénea de una heterogénea?",
+      "answer": "La homogénea presenta una sola fase uniforme; la heterogénea permite distinguir fases o componentes."
+    },
+    {
+      "n": 210,
+      "subject": "Química",
+      "topic": "Clasificación de la materia",
+      "question": "¿Qué método se utiliza para separar un sólido insoluble de un líquido?",
+      "answer": "La filtración."
+    },
+    {
+      "n": 211,
+      "subject": "Química",
+      "topic": "Clasificación de la materia",
+      "question": "¿Qué método puede separar líquidos miscibles con distintos puntos de ebullición?",
+      "answer": "La destilación."
+    },
+    {
+      "n": 212,
+      "subject": "Química",
+      "topic": "Clasificación de la materia",
+      "question": "¿La fusión del hielo es un cambio físico o químico?",
+      "answer": "Un cambio físico."
+    },
+    {
+      "n": 213,
+      "subject": "Química",
+      "topic": "Clasificación de la materia",
+      "question": "¿La combustión de la madera es un cambio físico o químico?",
+      "answer": "Un cambio químico."
+    },
+    {
+      "n": 214,
+      "subject": "Química",
+      "topic": "Estructura atómica",
+      "question": "¿Qué partícula subatómica tiene carga eléctrica positiva?",
+      "answer": "El protón."
+    },
+    {
+      "n": 215,
+      "subject": "Química",
+      "topic": "Estructura atómica",
+      "question": "¿Qué partícula subatómica tiene carga negativa?",
+      "answer": "El electrón."
+    },
+    {
+      "n": 216,
+      "subject": "Química",
+      "topic": "Estructura atómica",
+      "question": "¿Qué partícula subatómica no tiene carga eléctrica neta?",
+      "answer": "El neutrón."
+    },
+    {
+      "n": 217,
+      "subject": "Química",
+      "topic": "Estructura atómica",
+      "question": "¿Cómo se calcula el número de neutrones en un átomo?",
+      "answer": "Número de masa (A) menos número atómico (Z)."
+    },
+    {
+      "n": 218,
+      "subject": "Química",
+      "topic": "Estructura atómica",
+      "question": "¿Cuántos neutrones tiene el carbono-14, cuyo número atómico es 6?",
+      "answer": "8 neutrones."
+    },
+    {
+      "n": 219,
+      "subject": "Química",
+      "topic": "Estructura atómica",
+      "question": "¿Qué diferencia a dos isótopos del mismo elemento?",
+      "answer": "Su número de neutrones; tienen el mismo número de protones."
+    },
+    {
+      "n": 220,
+      "subject": "Química",
+      "topic": "Estructura atómica",
+      "question": "¿Cuántos electrones tiene un átomo neutro de oxígeno (Z = 8)?",
+      "answer": "8 electrones."
+    },
+    {
+      "n": 221,
+      "subject": "Química",
+      "topic": "Estructura atómica",
+      "question": "¿Cuántos electrones tiene el catión Na⁺ si el sodio tiene Z = 11?",
+      "answer": "10 electrones."
+    },
+    {
+      "n": 222,
+      "subject": "Química",
+      "topic": "Moles y fórmulas",
+      "question": "¿Cuánto vale aproximadamente el número de Avogadro?",
+      "answer": "6.022 × 10²³ entidades por mol."
+    },
+    {
+      "n": 223,
+      "subject": "Química",
+      "topic": "Moles y fórmulas",
+      "question": "¿Cuál es la masa molar aproximada del agua H₂O, usando H = 1 y O = 16?",
+      "answer": "18 g/mol."
+    },
+    {
+      "n": 224,
+      "subject": "Química",
+      "topic": "Moles y fórmulas",
+      "question": "¿Cuántos moles hay en 36 g de agua de masa molar 18 g/mol?",
+      "answer": "2 moles."
+    },
+    {
+      "n": 225,
+      "subject": "Química",
+      "topic": "Moles y fórmulas",
+      "question": "¿Cuál es la masa molar aproximada del dióxido de carbono CO₂, con C = 12 y O = 16?",
+      "answer": "44 g/mol."
+    },
+    {
+      "n": 226,
+      "subject": "Química",
+      "topic": "Configuración y tabla periódica",
+      "question": "¿Qué orbital atómico tiene forma aproximadamente esférica?",
+      "answer": "El orbital s."
+    },
+    {
+      "n": 227,
+      "subject": "Química",
+      "topic": "Configuración y tabla periódica",
+      "question": "¿Cuántos electrones caben como máximo en un orbital?",
+      "answer": "2 electrones."
+    },
+    {
+      "n": 228,
+      "subject": "Química",
+      "topic": "Configuración y tabla periódica",
+      "question": "¿Cuál es la configuración electrónica del helio (Z = 2)?",
+      "answer": "1s²."
+    },
+    {
+      "n": 229,
+      "subject": "Química",
+      "topic": "Configuración y tabla periódica",
+      "question": "¿Cuántos electrones de valencia tiene típicamente el sodio, del grupo 1?",
+      "answer": "1 electrón de valencia."
+    },
+    {
+      "n": 230,
+      "subject": "Química",
+      "topic": "Configuración y tabla periódica",
+      "question": "¿En qué dirección tiende a aumentar la electronegatividad a lo largo de un período?",
+      "answer": "En general, de izquierda a derecha."
+    },
+    {
+      "n": 231,
+      "subject": "Química",
+      "topic": "Configuración y tabla periódica",
+      "question": "¿Qué elemento es el más electronegativo de la tabla periódica?",
+      "answer": "El flúor."
+    },
+    {
+      "n": 232,
+      "subject": "Química",
+      "topic": "Configuración y tabla periódica",
+      "question": "¿En qué grupo se encuentran los gases nobles?",
+      "answer": "En el grupo 18."
+    },
+    {
+      "n": 233,
+      "subject": "Química",
+      "topic": "Enlaces y soluciones",
+      "question": "¿Qué enlace químico se forma por compartición de pares de electrones?",
+      "answer": "El enlace covalente."
+    },
+    {
+      "n": 234,
+      "subject": "Química",
+      "topic": "Enlaces y soluciones",
+      "question": "¿Qué fuerza mantiene unidos principalmente los metales en una estructura metálica?",
+      "answer": "El enlace metálico, asociado a electrones deslocalizados."
+    },
+    {
+      "n": 235,
+      "subject": "Química",
+      "topic": "Enlaces y soluciones",
+      "question": "¿Qué es un soluto en una disolución?",
+      "answer": "La sustancia que se disuelve en el disolvente."
+    },
+    {
+      "n": 236,
+      "subject": "Química",
+      "topic": "Enlaces y soluciones",
+      "question": "¿Cómo se define la molaridad de una disolución?",
+      "answer": "Número de moles de soluto dividido entre litros de disolución."
+    },
+    {
+      "n": 237,
+      "subject": "Química",
+      "topic": "Enlaces y soluciones",
+      "question": "¿Qué molaridad tiene una disolución con 2 moles de soluto en 4 litros de disolución?",
+      "answer": "0.50 mol/L."
+    },
+    {
+      "n": 238,
+      "subject": "Química",
+      "topic": "Enlaces y soluciones",
+      "question": "¿Qué significa una concentración de 10 % m/m?",
+      "answer": "10 gramos de soluto por cada 100 gramos de disolución."
+    },
+    {
+      "n": 239,
+      "subject": "Química",
+      "topic": "Reacciones químicas",
+      "question": "¿Cuál es la ecuación balanceada de formación de cloruro de sodio a partir de sus elementos?",
+      "answer": "2 Na + Cl₂ → 2 NaCl."
+    },
+    {
+      "n": 240,
+      "subject": "Química",
+      "topic": "Reacciones químicas",
+      "question": "¿Qué ley se respeta al balancear una ecuación química?",
+      "answer": "La ley de conservación de la masa."
+    },
+    {
+      "n": 241,
+      "subject": "Química",
+      "topic": "Reacciones químicas",
+      "question": "¿Cuál es la ecuación balanceada para la combustión completa del metano?",
+      "answer": "CH₄ + 2 O₂ → CO₂ + 2 H₂O."
+    },
+    {
+      "n": 242,
+      "subject": "Química",
+      "topic": "Reacciones químicas",
+      "question": "¿Qué reacción se caracteriza por combinar reactivos para formar un solo producto principal?",
+      "answer": "La reacción de síntesis o combinación."
+    },
+    {
+      "n": 243,
+      "subject": "Química",
+      "topic": "Reacciones químicas",
+      "question": "¿Qué es una reacción de precipitación?",
+      "answer": "Una reacción en solución que forma un sólido poco soluble."
+    },
+    {
+      "n": 244,
+      "subject": "Química",
+      "topic": "Ácidos y bases",
+      "question": "Según Arrhenius, ¿qué produce un ácido al disolverse en agua?",
+      "answer": "Un aumento de la concentración de H₃O⁺ (iones hidronio)."
+    },
+    {
+      "n": 245,
+      "subject": "Química",
+      "topic": "Ácidos y bases",
+      "question": "Según Arrhenius, ¿qué produce una base al disolverse en agua?",
+      "answer": "Un aumento de la concentración de iones OH⁻."
+    },
+    {
+      "n": 246,
+      "subject": "Química",
+      "topic": "Ácidos y bases",
+      "question": "¿Qué indica un pH de 7 para agua a 25 °C?",
+      "answer": "Neutralidad ácido-base."
+    },
+    {
+      "n": 247,
+      "subject": "Química",
+      "topic": "Ácidos y bases",
+      "question": "¿Qué es una reacción de neutralización entre un ácido y una base?",
+      "answer": "Una reacción ácido-base que, en el caso típico, produce una sal y agua."
+    },
+    {
+      "n": 248,
+      "subject": "Química",
+      "topic": "Ácidos y bases",
+      "question": "¿Qué pH corresponde a una disolución cuya concentración de H₃O⁺ es 10⁻³ mol/L?",
+      "answer": "pH = 3."
+    },
+    {
+      "n": 249,
+      "subject": "Química",
+      "topic": "Ácidos y bases",
+      "question": "¿Qué significa que una sustancia sea un electrolito?",
+      "answer": "Que produce iones móviles y puede conducir electricidad al disolverse o fundirse."
+    },
+    {
+      "n": 250,
+      "subject": "Química",
+      "topic": "Estructura atómica",
+      "question": "¿Cuántos neutrones tiene el sodio-23 si su número atómico es 11?",
+      "answer": "12 neutrones."
+    },
+    {
+      "n": 251,
+      "subject": "Química",
+      "topic": "Enlaces y soluciones",
+      "question": "¿Cuál es la fórmula química del cloruro de sodio?",
+      "answer": "NaCl."
+    },
+    {
+      "n": 252,
+      "subject": "Química",
+      "topic": "Ácidos y bases",
+      "question": "¿Qué valor de pH corresponde a una disolución neutra a 25 °C?",
+      "answer": "pH = 7."
+    },
+    {
+      "n": 253,
+      "subject": "Matemática",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "El conjunto solución de la desigualdad −2 ≤ x < 5 es:",
+      "answer": "[−2, 5)",
+      "steps": [
+        "Leemos el signo −2 ≤ x: el número −2 sí pertenece al conjunto.",
+        "Leemos x < 5: el número 5 queda excluido.",
+        "Se escribe [−2, 5): corchete en −2 y paréntesis en 5."
+      ]
+    },
+    {
+      "n": 254,
+      "subject": "Matemática",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "¿Cuál es la solución de la ecuación |2x − 3| = 5?",
+      "answer": "x = 4 o x = −1",
+      "steps": [
+        "Si el valor absoluto de 2x − 3 es 5, entonces 2x − 3 = 5 o 2x − 3 = −5.",
+        "Primer caso: 2x = 8 y x = 4.",
+        "Segundo caso: 2x = −2 y x = −1; ambos cumplen la ecuación."
+      ]
+    },
+    {
+      "n": 255,
+      "subject": "Matemática",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "Simplifica (2³ × 2⁴) / 2⁵.",
+      "answer": "2²",
+      "steps": [
+        "Al multiplicar potencias de igual base, sumamos exponentes: 2³ · 2⁴ = 2⁷.",
+        "Al dividir potencias de igual base, restamos exponentes: 2⁷ / 2⁵ = 2².",
+        "El resultado es 4."
+      ]
+    },
+    {
+      "n": 256,
+      "subject": "Matemática",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "¿Cuánto vale √72 simplificado?",
+      "answer": "6√2",
+      "steps": [
+        "Descomponemos 72 como 36 · 2.",
+        "Aplicamos √(36 · 2) = √36 · √2.",
+        "Como √36 = 6, resulta 6√2."
+      ]
+    },
+    {
+      "n": 257,
+      "subject": "Matemática",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "¿Cuál es el resultado de multiplicar (x + 3)(x − 2)?",
+      "answer": "x² + x − 6",
+      "steps": [
+        "Distribuimos: x·x + x·(−2) + 3·x + 3·(−2).",
+        "Obtenemos x² − 2x + 3x − 6.",
+        "Combinamos términos semejantes: x² + x − 6."
+      ]
+    },
+    {
+      "n": 258,
+      "subject": "Matemática",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "¿Cuál es la factorización correcta de x² − 9?",
+      "answer": "(x − 3)(x + 3)",
+      "steps": [
+        "Reconocemos diferencia de cuadrados: x² − 3².",
+        "Usamos a² − b² = (a − b)(a + b).",
+        "Resultado: (x − 3)(x + 3)."
+      ]
+    },
+    {
+      "n": 259,
+      "subject": "Matemática",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "Resuelve la ecuación cuadrática x² − 5x + 6 = 0.",
+      "answer": "x = 2 o 3",
+      "steps": [
+        "Buscamos dos números que sumen −5 y multipliquen 6: −2 y −3.",
+        "Factorizamos: (x − 2)(x − 3) = 0.",
+        "Igualamos cada factor a cero: x = 2 o x = 3."
+      ]
+    },
+    {
+      "n": 260,
+      "subject": "Matemática",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "¿Cuál es el conjunto solución de 3x − 4 > 8?",
+      "answer": "x > 4",
+      "steps": [
+        "Partimos de 3x − 4 > 8.",
+        "Sumamos 4 en ambos lados: 3x > 12.",
+        "Dividimos entre 3, que es positivo: x > 4."
+      ]
+    },
+    {
+      "n": 261,
+      "subject": "Matemática",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "Resuelve el sistema: x + y = 7; x − y = 1.",
+      "answer": "x = 4, y = 3",
+      "steps": [
+        "Sumamos x + y = 7 y x − y = 1 para eliminar y.",
+        "Queda 2x = 8; por tanto, x = 4.",
+        "Sustituimos en x + y = 7: y = 3."
+      ]
+    },
+    {
+      "n": 262,
+      "subject": "Matemática",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "Dos rectas paralelas son cortadas por una transversal. Si un ángulo correspondiente mide 65°, ¿cuánto mide su correspondiente en la otra intersección?",
+      "answer": "65°",
+      "steps": [
+        "En rectas paralelas cortadas por una transversal, los ángulos correspondientes son congruentes.",
+        "Por tanto, al ángulo de 65° le corresponde otro de 65°."
+      ]
+    },
+    {
+      "n": 263,
+      "subject": "Matemática",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "En un triángulo, dos ángulos interiores miden 45° y 65°. ¿Cuánto mide el tercero?",
+      "answer": "70°",
+      "steps": [
+        "La suma de los ángulos interiores de un triángulo es 180°.",
+        "Ángulo faltante = 180° − 45° − 65° = 70°."
+      ]
+    },
+    {
+      "n": 264,
+      "subject": "Matemática",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "Un triángulo rectángulo tiene catetos de 6 cm y 8 cm. ¿Cuánto mide la hipotenusa?",
+      "answer": "10 cm",
+      "steps": [
+        "Usamos Pitágoras: c² = a² + b².",
+        "c² = 6² + 8² = 36 + 64 = 100.",
+        "La hipotenusa es c = √100 = 10 cm."
+      ]
+    },
+    {
+      "n": 265,
+      "subject": "Matemática",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "En un triángulo rectángulo, si el cateto opuesto a θ mide 3 y la hipotenusa mide 5, ¿cuál es sen θ?",
+      "answer": "3/5",
+      "steps": [
+        "Definición: sen θ = cateto opuesto / hipotenusa.",
+        "Reemplazamos: sen θ = 3/5 = 0.6."
+      ]
+    },
+    {
+      "n": 266,
+      "subject": "Matemática",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "¿Cuál es la ecuación de la recta de pendiente 2 que pasa por (0, −3)?",
+      "answer": "y = 2x − 3",
+      "steps": [
+        "Forma pendiente–intersección: y = mx + b.",
+        "Dado m = 2 y el punto (0, −3), la intersección es b = −3.",
+        "La ecuación es y = 2x − 3."
+      ]
+    },
+    {
+      "n": 267,
+      "subject": "Matemática",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "La circunferencia de centro (2, −1) y radio 3 tiene ecuación:",
+      "answer": "(x − 2)² + (y + 1)² = 9",
+      "steps": [
+        "Ecuación de circunferencia: (x − h)² + (y − k)² = r².",
+        "Con centro (h,k) = (2,−1) y radio r = 3: (x − 2)² + (y + 1)² = 9."
+      ]
+    },
+    {
+      "n": 268,
+      "subject": "Matemática",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "¿Cuál es el dominio real de f(x) = √(x − 4)?",
+      "answer": "[4, +∞)",
+      "steps": [
+        "Para una raíz cuadrada real, el radicando debe ser mayor o igual que cero.",
+        "Entonces x − 4 ≥ 0, por lo que x ≥ 4.",
+        "El dominio es [4, +∞)."
+      ]
+    },
+    {
+      "n": 269,
+      "subject": "Matemática",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "Si f(x) = 2x + 1 y g(x) = x², ¿cuánto vale (f ∘ g)(3)?",
+      "answer": "19",
+      "steps": [
+        "Primero aplicamos g: g(3) = 3² = 9.",
+        "Después evaluamos f(9) = 2(9) + 1 = 19.",
+        "Por eso (f ∘ g)(3) = 19."
+      ]
+    },
+    {
+      "n": 270,
+      "subject": "Matemática",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "Si f(x) = 3x − 6, ¿cuál es su función inversa?",
+      "answer": "f⁻¹(x) = (x + 6)/3",
+      "steps": [
+        "Escribimos y = 3x − 6.",
+        "Despejamos x: y + 6 = 3x, entonces x = (y + 6)/3.",
+        "Intercambiamos variables: f⁻¹(x) = (x + 6)/3."
+      ]
+    },
+    {
+      "n": 271,
+      "subject": "Matemática",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "Resuelve 2ˣ = 16.",
+      "answer": "x = 4",
+      "steps": [
+        "Escribimos 16 como potencia de 2: 16 = 2⁴.",
+        "Entonces 2ˣ = 2⁴ implica x = 4."
+      ]
+    },
+    {
+      "n": 272,
+      "subject": "Matemática",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "¿Cuál es el valor de log₃ 81?",
+      "answer": "4",
+      "steps": [
+        "Por definición, log₃(81) = x equivale a 3ˣ = 81.",
+        "Como 81 = 3⁴, obtenemos x = 4."
+      ]
+    },
+    {
+      "n": 273,
+      "subject": "Matemática",
+      "topic": "Números reales y valor absoluto",
+      "question": "¿Cuánto vale |−12|?",
+      "answer": "12.",
+      "steps": [
+        "El valor absoluto es la distancia al cero en la recta real, siempre no negativa.",
+        "La distancia de −12 a 0 es 12."
+      ]
+    },
+    {
+      "n": 274,
+      "subject": "Matemática",
+      "topic": "Números reales y valor absoluto",
+      "question": "¿Cuál es el resultado de −7 + 15?",
+      "answer": "8.",
+      "steps": [
+        "Restamos los valores absolutos de los números de signos distintos: 15 − 7 = 8.",
+        "Predomina el signo del número con mayor valor absoluto, que es positivo."
+      ]
+    },
+    {
+      "n": 275,
+      "subject": "Matemática",
+      "topic": "Números reales y valor absoluto",
+      "question": "¿Cuál es el resultado de (−3)(−8)?",
+      "answer": "24.",
+      "steps": [
+        "El producto de dos números negativos es positivo.",
+        "Multiplicamos 3 × 8 = 24."
+      ]
+    },
+    {
+      "n": 276,
+      "subject": "Matemática",
+      "topic": "Números reales y valor absoluto",
+      "question": "¿Cuánto vale 3/4 + 1/8?",
+      "answer": "7/8.",
+      "steps": [
+        "Buscamos denominador común 8: 3/4 = 6/8.",
+        "Sumamos 6/8 + 1/8 = 7/8."
+      ]
+    },
+    {
+      "n": 277,
+      "subject": "Matemática",
+      "topic": "Números reales y valor absoluto",
+      "question": "¿Cuál es la representación en intervalo de x ≥ −1 y x < 4?",
+      "answer": "[−1, 4).",
+      "steps": [
+        "La condición x ≥ −1 incluye el extremo izquierdo: usamos corchete.",
+        "La condición x < 4 excluye el derecho: usamos paréntesis.",
+        "Resultado: [−1, 4)."
+      ]
+    },
+    {
+      "n": 278,
+      "subject": "Matemática",
+      "topic": "Números reales y valor absoluto",
+      "question": "¿Qué conjunto representa todos los valores reales x tales que |x| ≤ 3?",
+      "answer": "[−3, 3].",
+      "steps": [
+        "La desigualdad de valor absoluto de x ≤ 3 equivale a −3 ≤ x ≤ 3.",
+        "Ambos extremos se incluyen: [−3, 3]."
+      ]
+    },
+    {
+      "n": 279,
+      "subject": "Matemática",
+      "topic": "Números reales y valor absoluto",
+      "question": "¿Qué solución tiene |x − 5| = 2?",
+      "answer": "x = 3 o x = 7.",
+      "steps": [
+        "Separamos en los casos x − 5 = 2 y x − 5 = −2.",
+        "Al resolver, x = 7 o x = 3."
+      ]
+    },
+    {
+      "n": 280,
+      "subject": "Matemática",
+      "topic": "Potencias, radicales y polinomios",
+      "question": "¿Cuánto vale (3²)(3³)?",
+      "answer": "3⁵ = 243.",
+      "steps": [
+        "Multiplicamos potencias de la misma base sumando exponentes.",
+        "3² · 3³ = 3⁵ = 243."
+      ]
+    },
+    {
+      "n": 281,
+      "subject": "Matemática",
+      "topic": "Potencias, radicales y polinomios",
+      "question": "¿Cuánto vale 5⁰?",
+      "answer": "1.",
+      "steps": [
+        "Cualquier número distinto de cero elevado a cero vale 1.",
+        "Así, 5⁰ = 1."
+      ]
+    },
+    {
+      "n": 282,
+      "subject": "Matemática",
+      "topic": "Potencias, radicales y polinomios",
+      "question": "¿Cuánto vale 2⁻³?",
+      "answer": "1/8.",
+      "steps": [
+        "Un exponente negativo invierte la base: 2⁻³ = 1/2³.",
+        "Como 2³ = 8, resulta 1/8."
+      ]
+    },
+    {
+      "n": 283,
+      "subject": "Matemática",
+      "topic": "Potencias, radicales y polinomios",
+      "question": "¿Cómo se simplifica √50?",
+      "answer": "5√2.",
+      "steps": [
+        "Factorizamos 50 = 25 · 2.",
+        "Entonces √50 = √25 · √2 = 5√2."
+      ]
+    },
+    {
+      "n": 284,
+      "subject": "Matemática",
+      "topic": "Potencias, radicales y polinomios",
+      "question": "¿Cuál es el desarrollo de (x + 4)²?",
+      "answer": "x² + 8x + 16.",
+      "steps": [
+        "Aplicamos (a+b)² = a² + 2ab + b².",
+        "Con a=x y b=4: x² + 2(x)(4) + 16 = x² + 8x + 16."
+      ]
+    },
+    {
+      "n": 285,
+      "subject": "Matemática",
+      "topic": "Potencias, radicales y polinomios",
+      "question": "¿Cuál es el desarrollo de (2x − 3)(x + 5)?",
+      "answer": "2x² + 7x − 15.",
+      "steps": [
+        "Multiplicamos cada término: 2x·x + 2x·5 − 3·x − 3·5.",
+        "Obtenemos 2x² + 10x − 3x − 15.",
+        "Reducimos: 2x² + 7x − 15."
+      ]
+    },
+    {
+      "n": 286,
+      "subject": "Matemática",
+      "topic": "Potencias, radicales y polinomios",
+      "question": "¿Cuánto resulta (6x³ − 9x²) / (3x²), para x ≠ 0?",
+      "answer": "2x − 3.",
+      "steps": [
+        "Dividimos cada término entre 3x²: 6x³/(3x²) − 9x²/(3x²).",
+        "Simplificamos a 2x − 3; se requiere x ≠ 0."
+      ]
+    },
+    {
+      "n": 287,
+      "subject": "Matemática",
+      "topic": "Factorización y ecuaciones",
+      "question": "¿Cuál es la factorización de x² + 7x + 12?",
+      "answer": "(x + 3)(x + 4).",
+      "steps": [
+        "Buscamos dos números con producto 12 y suma 7: 3 y 4.",
+        "Así, x² + 7x + 12 = (x + 3)(x + 4)."
+      ]
+    },
+    {
+      "n": 288,
+      "subject": "Matemática",
+      "topic": "Factorización y ecuaciones",
+      "question": "¿Cuál es la factorización de 4x² − 25?",
+      "answer": "(2x − 5)(2x + 5).",
+      "steps": [
+        "Se trata de diferencia de cuadrados: (2x)² − 5².",
+        "Factorizamos: (2x − 5)(2x + 5)."
+      ]
+    },
+    {
+      "n": 289,
+      "subject": "Matemática",
+      "topic": "Factorización y ecuaciones",
+      "question": "¿Cuál es la factorización de 3x² + 6x?",
+      "answer": "3x(x + 2).",
+      "steps": [
+        "Extraemos el factor común de ambos términos: 3x.",
+        "3x² + 6x = 3x(x + 2)."
+      ]
+    },
+    {
+      "n": 290,
+      "subject": "Matemática",
+      "topic": "Factorización y ecuaciones",
+      "question": "¿Cuál es la factorización de x² − 6x + 9?",
+      "answer": "(x − 3)².",
+      "steps": [
+        "Reconocemos el trinomio cuadrado perfecto: x² − 2(x)(3) + 3².",
+        "Se factoriza como (x − 3)²."
+      ]
+    },
+    {
+      "n": 291,
+      "subject": "Matemática",
+      "topic": "Factorización y ecuaciones",
+      "question": "¿Qué valor de x satisface 5x − 7 = 18?",
+      "answer": "x = 5.",
+      "steps": [
+        "De 5x − 7 = 18, sumamos 7 a ambos lados: 5x = 25.",
+        "Dividimos entre 5: x = 5."
+      ]
+    },
+    {
+      "n": 292,
+      "subject": "Matemática",
+      "topic": "Factorización y ecuaciones",
+      "question": "¿Cuáles son las soluciones de x² − 9x + 20 = 0?",
+      "answer": "x = 4 o x = 5.",
+      "steps": [
+        "Buscamos dos números que sumen −9 y multipliquen 20: −4 y −5.",
+        "Factorizamos (x−4)(x−5) = 0.",
+        "Soluciones: x = 4 y x = 5."
+      ]
+    },
+    {
+      "n": 293,
+      "subject": "Matemática",
+      "topic": "Factorización y ecuaciones",
+      "question": "¿Cuáles son las soluciones reales de x² − 16 = 0?",
+      "answer": "x = −4 o x = 4.",
+      "steps": [
+        "Despejamos x² − 16 = 0 → x² = 16.",
+        "Al extraer raíz obtenemos dos signos: x = ±4."
+      ]
+    },
+    {
+      "n": 294,
+      "subject": "Matemática",
+      "topic": "Ecuaciones y desigualdades",
+      "question": "¿Cuál es la solución de 2x + 3 ≤ 11?",
+      "answer": "x ≤ 4.",
+      "steps": [
+        "Restamos 3: 2x ≤ 8.",
+        "Dividimos entre 2 positivo: x ≤ 4."
+      ]
+    },
+    {
+      "n": 295,
+      "subject": "Matemática",
+      "topic": "Ecuaciones y desigualdades",
+      "question": "¿Cuál es la solución de −3x > 12?",
+      "answer": "x < −4.",
+      "steps": [
+        "Dividimos −3x > 12 entre −3.",
+        "Cuando se divide una desigualdad entre un número negativo, se invierte el signo: x < −4."
+      ]
+    },
+    {
+      "n": 296,
+      "subject": "Matemática",
+      "topic": "Ecuaciones y desigualdades",
+      "question": "¿Cuál es la solución de la desigualdad x² − 4 < 0?",
+      "answer": "−2 < x < 2.",
+      "steps": [
+        "Resolvemos x² − 4 < 0 → x² < 4.",
+        "La distancia de x al cero debe ser menor que 2: −2 < x < 2."
+      ]
+    },
+    {
+      "n": 297,
+      "subject": "Matemática",
+      "topic": "Ecuaciones y desigualdades",
+      "question": "¿Cuál es la solución del sistema x + y = 10 y x − y = 2?",
+      "answer": "x = 6; y = 4.",
+      "steps": [
+        "Sumamos x+y = 10 y x−y = 2: 2x = 12.",
+        "Por tanto x = 6; sustituimos en x+y = 10 y resulta y = 4."
+      ]
+    },
+    {
+      "n": 298,
+      "subject": "Matemática",
+      "topic": "Ecuaciones y desigualdades",
+      "question": "¿Cuál es la solución del sistema 2x + y = 8 y x − y = 1?",
+      "answer": "x = 3; y = 2.",
+      "steps": [
+        "Sumamos 2x+y = 8 y x−y = 1: 3x = 9.",
+        "Entonces x = 3; sustituimos en x−y = 1 y obtenemos y = 2."
+      ]
+    },
+    {
+      "n": 299,
+      "subject": "Matemática",
+      "topic": "Geometría plana",
+      "question": "¿Cuánto mide el ángulo suplementario de uno de 125°?",
+      "answer": "55°.",
+      "steps": [
+        "Los ángulos suplementarios suman 180°.",
+        "Calculamos 180° − 125° = 55°."
+      ]
+    },
+    {
+      "n": 300,
+      "subject": "Matemática",
+      "topic": "Geometría plana",
+      "question": "¿Cuánto mide el ángulo complementario de uno de 35°?",
+      "answer": "55°.",
+      "steps": [
+        "Los ángulos complementarios suman 90°.",
+        "Calculamos 90° − 35° = 55°."
+      ]
+    },
+    {
+      "n": 301,
+      "subject": "Matemática",
+      "topic": "Geometría plana",
+      "question": "¿Cuánto suman los ángulos interiores de un triángulo euclidiano?",
+      "answer": "180°.",
+      "steps": [
+        "En geometría euclidiana, la suma de los ángulos interiores de cualquier triángulo es 180°.",
+        "Se puede comprobar trazando una paralela a un lado por el vértice opuesto."
+      ]
+    },
+    {
+      "n": 302,
+      "subject": "Matemática",
+      "topic": "Geometría plana",
+      "question": "¿Cuánto mide cada ángulo interior de un triángulo equilátero?",
+      "answer": "60°.",
+      "steps": [
+        "Un triángulo equilátero tiene sus tres ángulos iguales.",
+        "Cada ángulo mide 180°/3 = 60°."
+      ]
+    },
+    {
+      "n": 303,
+      "subject": "Matemática",
+      "topic": "Geometría plana",
+      "question": "¿Cuál es el perímetro de un rectángulo de lados 8 cm y 5 cm?",
+      "answer": "26 cm.",
+      "steps": [
+        "El perímetro de un rectángulo es P = 2(largo + ancho).",
+        "Sustituimos: P = 2(8+5) = 26 cm."
+      ]
+    },
+    {
+      "n": 304,
+      "subject": "Matemática",
+      "topic": "Geometría plana",
+      "question": "¿Cuál es el área de un triángulo de base 10 cm y altura 6 cm?",
+      "answer": "30 cm².",
+      "steps": [
+        "El área de un triángulo es A = (base × altura)/2.",
+        "A = (10 × 6)/2 = 30 cm²."
+      ]
+    },
+    {
+      "n": 305,
+      "subject": "Matemática",
+      "topic": "Geometría plana",
+      "question": "¿Cuánto mide la diagonal de un cuadrado de lado 5 cm?",
+      "answer": "5√2 cm.",
+      "steps": [
+        "La diagonal es la hipotenusa de un triángulo con catetos de 5 y 5 cm.",
+        "d² = 5² + 5² = 50.",
+        "d = √50 = 5√2 cm."
+      ]
+    },
+    {
+      "n": 306,
+      "subject": "Matemática",
+      "topic": "Geometría plana",
+      "question": "¿Cuánto mide la hipotenusa de un triángulo rectángulo con catetos 5 cm y 12 cm?",
+      "answer": "13 cm.",
+      "steps": [
+        "Teorema de Pitágoras: c² = 5² + 12².",
+        "c² = 25 + 144 = 169; c = 13 cm."
+      ]
+    },
+    {
+      "n": 307,
+      "subject": "Matemática",
+      "topic": "Geometría plana",
+      "question": "Si dos triángulos son congruentes, ¿qué sucede con sus lados y ángulos correspondientes?",
+      "answer": "Son respectivamente iguales en medida.",
+      "steps": [
+        "Por definición de congruencia, dos triángulos coinciden en forma y tamaño.",
+        "Sus lados correspondientes y sus ángulos correspondientes tienen la misma medida."
+      ]
+    },
+    {
+      "n": 308,
+      "subject": "Matemática",
+      "topic": "Trigonometría",
+      "question": "¿Cuánto vale sen 30°?",
+      "answer": "1/2.",
+      "steps": [
+        "En el triángulo notable 30°–60°–90°, el cateto opuesto a 30° mide la mitad de la hipotenusa.",
+        "Entonces sen 30° = 1/2."
+      ]
+    },
+    {
+      "n": 309,
+      "subject": "Matemática",
+      "topic": "Trigonometría",
+      "question": "¿Cuánto vale cos 60°?",
+      "answer": "1/2.",
+      "steps": [
+        "En el triángulo notable 30°–60°–90°, el cateto adyacente a 60° mide la mitad de la hipotenusa.",
+        "Entonces cos 60° = 1/2."
+      ]
+    },
+    {
+      "n": 310,
+      "subject": "Matemática",
+      "topic": "Trigonometría",
+      "question": "¿Cuánto vale tan 45°?",
+      "answer": "1.",
+      "steps": [
+        "tan θ = sen θ / cos θ.",
+        "Para 45°, los catetos son iguales, así que tan 45° = 1."
+      ]
+    },
+    {
+      "n": 311,
+      "subject": "Matemática",
+      "topic": "Trigonometría",
+      "question": "¿Cuál es la identidad pitagórica fundamental de seno y coseno?",
+      "answer": "sen² θ + cos² θ = 1.",
+      "steps": [
+        "En un triángulo rectángulo, a² + b² = c².",
+        "Al dividir entre c² queda (a/c)² + (b/c)² = 1.",
+        "Como a/c y b/c representan seno y coseno, sen² θ + cos² θ = 1."
+      ]
+    },
+    {
+      "n": 312,
+      "subject": "Matemática",
+      "topic": "Rectas y circunferencias",
+      "question": "¿Cuál es la longitud de una circunferencia de radio 3 cm?",
+      "answer": "6π cm.",
+      "steps": [
+        "La longitud de una circunferencia es C = 2πr.",
+        "Con r = 3 cm, C = 2π(3) = 6π cm."
+      ]
+    },
+    {
+      "n": 313,
+      "subject": "Matemática",
+      "topic": "Rectas y circunferencias",
+      "question": "¿Cuál es el área de un círculo de radio 4 cm?",
+      "answer": "16π cm².",
+      "steps": [
+        "El área de un círculo es A = πr².",
+        "Con r = 4 cm, A = π(4²) = 16π cm²."
+      ]
+    },
+    {
+      "n": 314,
+      "subject": "Matemática",
+      "topic": "Rectas y circunferencias",
+      "question": "¿Qué pendiente tiene la recta que pasa por (1, 2) y (3, 6)?",
+      "answer": "2.",
+      "steps": [
+        "Pendiente entre dos puntos: m = (y₂ − y₁)/(x₂ − x₁).",
+        "m = (6−2)/(3−1) = 4/2 = 2."
+      ]
+    },
+    {
+      "n": 315,
+      "subject": "Matemática",
+      "topic": "Rectas y circunferencias",
+      "question": "¿Cuál es la ecuación de la recta horizontal que pasa por (5, −2)?",
+      "answer": "y = −2.",
+      "steps": [
+        "Una recta horizontal conserva el mismo valor de y para todos sus puntos.",
+        "Como pasa por (5,−2), su ecuación es y = −2."
+      ]
+    },
+    {
+      "n": 316,
+      "subject": "Matemática",
+      "topic": "Rectas y circunferencias",
+      "question": "¿Cuál es la ecuación de una circunferencia con centro en el origen y radio 5?",
+      "answer": "x² + y² = 25.",
+      "steps": [
+        "Ecuación de circunferencia: (x−h)² + (y−k)² = r².",
+        "Centro (0,0) y radio 5: x²+y² = 25."
+      ]
+    },
+    {
+      "n": 317,
+      "subject": "Matemática",
+      "topic": "Funciones",
+      "question": "¿Cuál es el dominio real de f(x) = 1/(x − 2)?",
+      "answer": "Todos los números reales excepto x = 2.",
+      "steps": [
+        "En una fracción, el denominador nunca puede ser cero.",
+        "x−2 ≠ 0 implica x ≠ 2.",
+        "Dominio: todos los reales, excepto 2."
+      ]
+    },
+    {
+      "n": 318,
+      "subject": "Matemática",
+      "topic": "Funciones",
+      "question": "¿Cuánto vale f(−2) si f(x) = x² + 3x?",
+      "answer": "−2.",
+      "steps": [
+        "Sustituimos x = −2 en f(x) = x² + 3x.",
+        "f(−2) = (−2)² + 3(−2) = 4−6 = −2."
+      ]
+    },
+    {
+      "n": 319,
+      "subject": "Matemática",
+      "topic": "Funciones",
+      "question": "¿Qué característica tiene una función inyectiva?",
+      "answer": "Cada valor de salida corresponde como máximo a un valor de entrada.",
+      "steps": [
+        "Una función es inyectiva si no asigna la misma salida a dos entradas distintas.",
+        "Formalmente, si f(a)=f(b), entonces a=b."
+      ]
+    },
+    {
+      "n": 320,
+      "subject": "Matemática",
+      "topic": "Funciones",
+      "question": "¿Qué característica tiene una función sobreyectiva sobre su codominio?",
+      "answer": "Todo elemento del codominio es imagen de al menos un elemento del dominio.",
+      "steps": [
+        "Una función es sobreyectiva cuando alcanza cada elemento de su codominio.",
+        "Para todo y del codominio existe por lo menos un x del dominio con f(x)=y."
+      ]
+    },
+    {
+      "n": 321,
+      "subject": "Matemática",
+      "topic": "Funciones",
+      "question": "¿Qué característica tiene una función biyectiva?",
+      "answer": "Es inyectiva y sobreyectiva.",
+      "steps": [
+        "Una función biyectiva reúne dos propiedades: inyectividad y sobreyectividad.",
+        "Cada elemento del codominio corresponde a exactamente una entrada."
+      ]
+    },
+    {
+      "n": 322,
+      "subject": "Matemática",
+      "topic": "Funciones",
+      "question": "¿Cuánto vale (f ∘ g)(2) si f(x) = x + 4 y g(x) = 3x?",
+      "answer": "10.",
+      "steps": [
+        "Primero calculamos g(2) = 3(2) = 6.",
+        "Después f(g(2)) = f(6) = 6 + 4 = 10."
+      ]
+    },
+    {
+      "n": 323,
+      "subject": "Matemática",
+      "topic": "Funciones",
+      "question": "¿Cuál es la inversa de f(x) = 2x + 7 sobre los reales?",
+      "answer": "f⁻¹(x) = (x − 7)/2.",
+      "steps": [
+        "Escribimos y = 2x + 7 y despejamos x.",
+        "x = (y − 7)/2; intercambiamos x e y.",
+        "Así, f⁻¹(x) = (x−7)/2."
+      ]
+    },
+    {
+      "n": 324,
+      "subject": "Matemática",
+      "topic": "Funciones polinomiales",
+      "question": "¿Cuáles son las raíces de f(x) = x² − 4x + 3?",
+      "answer": "x = 1 y x = 3.",
+      "steps": [
+        "Factorizamos x² − 4x + 3 = (x−1)(x−3).",
+        "Hacemos cada factor cero: x = 1 o x = 3."
+      ]
+    },
+    {
+      "n": 325,
+      "subject": "Matemática",
+      "topic": "Funciones polinomiales",
+      "question": "¿Cuál es la coordenada x del vértice de y = x² − 6x + 5?",
+      "answer": "x = 3.",
+      "steps": [
+        "Para y = ax² + bx + c, el vértice tiene coordenada x = −b/(2a).",
+        "Aquí a=1 y b=−6: x = 6/2 = 3."
+      ]
+    },
+    {
+      "n": 326,
+      "subject": "Matemática",
+      "topic": "Funciones polinomiales",
+      "question": "¿Cuál es la pendiente de y = −4x + 9?",
+      "answer": "−4.",
+      "steps": [
+        "La forma y = mx + b permite leer la pendiente m directamente.",
+        "En y = −4x + 9, m = −4."
+      ]
+    },
+    {
+      "n": 327,
+      "subject": "Matemática",
+      "topic": "Funciones exponenciales y logarítmicas",
+      "question": "¿Cuánto vale 3ˣ si x = 2?",
+      "answer": "9.",
+      "steps": [
+        "Sustituimos x = 2 en la potencia 3ˣ.",
+        "3² = 3×3 = 9."
+      ]
+    },
+    {
+      "n": 328,
+      "subject": "Matemática",
+      "topic": "Funciones exponenciales y logarítmicas",
+      "question": "¿Cuál es la solución de 5ˣ = 125?",
+      "answer": "x = 3.",
+      "steps": [
+        "Escribimos 125 como potencia de 5: 125 = 5³.",
+        "De 5ˣ = 5³ se deduce x = 3."
+      ]
+    },
+    {
+      "n": 329,
+      "subject": "Matemática",
+      "topic": "Funciones exponenciales y logarítmicas",
+      "question": "¿Cuánto vale log₁₀(1000)?",
+      "answer": "3.",
+      "steps": [
+        "Logaritmo y potencia son operaciones inversas.",
+        "10³ = 1000, por eso log₁₀(1000) = 3."
+      ]
+    },
+    {
+      "n": 330,
+      "subject": "Matemática",
+      "topic": "Funciones exponenciales y logarítmicas",
+      "question": "¿Cuánto vale log₂(32)?",
+      "answer": "5.",
+      "steps": [
+        "2⁵ = 32.",
+        "Por definición, log₂(32) = 5."
+      ]
+    },
+    {
+      "n": 331,
+      "subject": "Matemática",
+      "topic": "Funciones exponenciales y logarítmicas",
+      "question": "¿Cuál es la solución de log₂(x) = 4?",
+      "answer": "x = 16.",
+      "steps": [
+        "Pasamos la ecuación logarítmica a forma exponencial: x = 2⁴.",
+        "Entonces x = 16, que cumple x > 0."
+      ]
+    },
+    {
+      "n": 332,
+      "subject": "Matemática",
+      "topic": "Números reales y valor absoluto",
+      "question": "¿Cuál es la intersección de los intervalos [−2, 5] y [3, 8)?",
+      "answer": "[3, 5].",
+      "steps": [
+        "La intersección contiene solamente los números presentes en ambos intervalos.",
+        "El extremo menor compartido es 3 y el mayor es 5; ambos están incluidos.",
+        "Intersección: [3,5]."
+      ]
+    },
+    {
+      "n": 333,
+      "subject": "Matemática",
+      "topic": "Combinatoria (referencia examen 2016)",
+      "question": "¿Cuánto vale 7!/(5!·2!)?",
+      "answer": "21.",
+      "steps": [
+        "Cancelamos 5! dentro de 7!/(5!·2!).",
+        "Queda (7×6)/(2×1) = 42/2 = 21."
+      ]
+    },
+    {
+      "n": 334,
+      "subject": "Matemática",
+      "topic": "Probabilidad (referencia examen 2016)",
+      "question": "¿Qué probabilidad existe de obtener un número par al lanzar un dado equilibrado de seis caras?",
+      "answer": "1/2.",
+      "steps": [
+        "En el dado hay 6 resultados posibles y equiprobables.",
+        "Los pares son 2, 4 y 6: 3 casos favorables.",
+        "Probabilidad = 3/6 = 1/2."
+      ]
+    },
+    {
+      "n": 335,
+      "subject": "Lenguaje",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "Completa: «No quería café, ___ té».",
+      "answer": "sino"
+    },
+    {
+      "n": 336,
+      "subject": "Lenguaje",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "Escribe un ejemplo de uso correcto de «por qué» en una interrogativa indirecta.",
+      "answer": "No sé por qué no llegó a tiempo."
+    },
+    {
+      "n": 337,
+      "subject": "Lenguaje",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "Escribe una oración que use correctamente la expresión «a ver».",
+      "answer": "Vamos a ver la película."
+    },
+    {
+      "n": 338,
+      "subject": "Lenguaje",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "Menciona una palabra que contenga hiato.",
+      "answer": "País"
+    },
+    {
+      "n": 339,
+      "subject": "Lenguaje",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "Escribe una oración con tilde en un interrogativo indirecto.",
+      "answer": "Dime cuándo llegas."
+    },
+    {
+      "n": 340,
+      "subject": "Lenguaje",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "¿Qué tipo de conjunción es «pero» en «Estudió mucho, pero se equivocó»?",
+      "answer": "Coordinante adversativa"
+    },
+    {
+      "n": 341,
+      "subject": "Lenguaje",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "En la oración «La estudiante entregó el trabajo ayer», ¿cuál es el sujeto?",
+      "answer": "La estudiante"
+    },
+    {
+      "n": 342,
+      "subject": "Lenguaje",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "¿Qué expresión contiene dequeísmo, considerado no normativo en este contexto?",
+      "answer": "Pienso de que la respuesta es correcta."
+    },
+    {
+      "n": 343,
+      "subject": "Lenguaje",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "En un texto argumentativo, «por consiguiente» funciona como conector de:",
+      "answer": "Consecuencia"
+    },
+    {
+      "n": 344,
+      "subject": "Lenguaje",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "En una referencia bibliográfica con normas APA 7.ª edición, ¿qué elemento sigue habitualmente al apellido e inicial del autor de un libro?",
+      "answer": "El año de publicación entre paréntesis"
+    },
+    {
+      "n": 345,
+      "subject": "Lenguaje",
+      "topic": "Siglas y abreviaturas",
+      "question": "¿Qué significa la sigla ONU?",
+      "answer": "Organización de las Naciones Unidas."
+    },
+    {
+      "n": 346,
+      "subject": "Lenguaje",
+      "topic": "Siglas y abreviaturas",
+      "question": "¿Qué es un acrónimo en el ámbito lingüístico?",
+      "answer": "Una palabra formada con letras o fragmentos de otras expresiones, que puede pronunciarse como unidad."
+    },
+    {
+      "n": 347,
+      "subject": "Lenguaje",
+      "topic": "Siglas y abreviaturas",
+      "question": "¿Qué abreviatura de «página» es habitual en referencias bibliográficas?",
+      "answer": "pág."
+    },
+    {
+      "n": 348,
+      "subject": "Lenguaje",
+      "topic": "Puntuación y ortografía",
+      "question": "¿Para qué se utilizan normalmente los dos puntos antes de una enumeración?",
+      "answer": "Para anunciar los elementos que se enumerarán."
+    },
+    {
+      "n": 349,
+      "subject": "Lenguaje",
+      "topic": "Puntuación y ortografía",
+      "question": "¿Qué signo de puntuación separa incisos explicativos breves dentro de una oración?",
+      "answer": "Las comas."
+    },
+    {
+      "n": 350,
+      "subject": "Lenguaje",
+      "topic": "Puntuación y ortografía",
+      "question": "¿Con qué signo se separan miembros de una enumeración compleja que ya contienen comas?",
+      "answer": "Con punto y coma."
+    },
+    {
+      "n": 351,
+      "subject": "Lenguaje",
+      "topic": "Puntuación y ortografía",
+      "question": "¿Para qué se utilizan los paréntesis en un texto?",
+      "answer": "Para incorporar incisos, aclaraciones o información complementaria."
+    },
+    {
+      "n": 352,
+      "subject": "Lenguaje",
+      "topic": "Puntuación y ortografía",
+      "question": "¿Qué signos se emplean convencionalmente para reproducir una cita textual breve?",
+      "answer": "Las comillas."
+    },
+    {
+      "n": 353,
+      "subject": "Lenguaje",
+      "topic": "Puntuación y ortografía",
+      "question": "Completa correctamente: «No asistió ___ estaba enfermo».",
+      "answer": "porque."
+    },
+    {
+      "n": 354,
+      "subject": "Lenguaje",
+      "topic": "Puntuación y ortografía",
+      "question": "Completa correctamente: «Explícame el ___ de tu decisión».",
+      "answer": "porqué."
+    },
+    {
+      "n": 355,
+      "subject": "Lenguaje",
+      "topic": "Puntuación y ortografía",
+      "question": "Completa correctamente: «¿___ llegaste tarde?».",
+      "answer": "Por qué."
+    },
+    {
+      "n": 356,
+      "subject": "Lenguaje",
+      "topic": "Puntuación y ortografía",
+      "question": "Completa correctamente: «___ que estudiar esta noche».",
+      "answer": "Hay."
+    },
+    {
+      "n": 357,
+      "subject": "Lenguaje",
+      "topic": "Puntuación y ortografía",
+      "question": "Completa correctamente: «Mi hermana ___ terminado la tarea».",
+      "answer": "ha."
+    },
+    {
+      "n": 358,
+      "subject": "Lenguaje",
+      "topic": "Puntuación y ortografía",
+      "question": "Completa correctamente: «Vamos ___ la exposición de mañana».",
+      "answer": "a ver."
+    },
+    {
+      "n": 359,
+      "subject": "Lenguaje",
+      "topic": "Relaciones entre palabras",
+      "question": "¿Qué significa «homófono»?",
+      "answer": "Palabra que se pronuncia igual que otra, aunque puede escribirse distinto y tener otro significado."
+    },
+    {
+      "n": 360,
+      "subject": "Lenguaje",
+      "topic": "Relaciones entre palabras",
+      "question": "¿Qué relación lingüística existe entre «actitud» y «aptitud»?",
+      "answer": "Son palabras parónimas."
+    },
+    {
+      "n": 361,
+      "subject": "Lenguaje",
+      "topic": "Acentuación",
+      "question": "¿Cómo se escribe correctamente la palabra compuesta por «décimo» y «séptimo» en una sola palabra?",
+      "answer": "decimoséptimo."
+    },
+    {
+      "n": 362,
+      "subject": "Lenguaje",
+      "topic": "Acentuación",
+      "question": "¿«País» presenta diptongo o hiato?",
+      "answer": "Hiato."
+    },
+    {
+      "n": 363,
+      "subject": "Lenguaje",
+      "topic": "Acentuación",
+      "question": "¿«Ciudad» presenta diptongo o hiato?",
+      "answer": "Diptongo."
+    },
+    {
+      "n": 364,
+      "subject": "Lenguaje",
+      "topic": "Acentuación",
+      "question": "¿«Buey» contiene diptongo o triptongo en la pronunciación estándar?",
+      "answer": "Triptongo."
+    },
+    {
+      "n": 365,
+      "subject": "Lenguaje",
+      "topic": "Acentuación",
+      "question": "¿Qué sílaba recibe la mayor intensidad de pronunciación en una palabra?",
+      "answer": "La sílaba tónica."
+    },
+    {
+      "n": 366,
+      "subject": "Lenguaje",
+      "topic": "Conjunciones y cohesión",
+      "question": "¿Qué tipo de conjunción es «y» en «Ana estudia y Luis trabaja»?",
+      "answer": "Coordinante copulativa."
+    },
+    {
+      "n": 367,
+      "subject": "Lenguaje",
+      "topic": "Conjunciones y cohesión",
+      "question": "¿Qué tipo de conjunción es «o» en «Vienes o te quedas»?",
+      "answer": "Coordinante disyuntiva."
+    },
+    {
+      "n": 368,
+      "subject": "Lenguaje",
+      "topic": "Conjunciones y cohesión",
+      "question": "¿Qué relación lógica expresa el conector «sin embargo»?",
+      "answer": "Oposición o contraste."
+    },
+    {
+      "n": 369,
+      "subject": "Lenguaje",
+      "topic": "Conjunciones y cohesión",
+      "question": "¿Qué relación lógica expresa el conector «por lo tanto»?",
+      "answer": "Consecuencia o conclusión."
+    },
+    {
+      "n": 370,
+      "subject": "Lenguaje",
+      "topic": "Conjunciones y cohesión",
+      "question": "¿Qué es la cohesión textual?",
+      "answer": "La conexión formal y semántica entre las partes de un texto mediante recursos lingüísticos."
+    },
+    {
+      "n": 371,
+      "subject": "Lenguaje",
+      "topic": "Conjunciones y cohesión",
+      "question": "¿Qué es la recurrencia léxica?",
+      "answer": "La repetición o reaparición de palabras relacionadas para mantener un tema."
+    },
+    {
+      "n": 372,
+      "subject": "Lenguaje",
+      "topic": "Perífrasis verbales",
+      "question": "¿Qué es una perífrasis verbal?",
+      "answer": "Una construcción de verbo auxiliar y forma no personal que expresa un significado verbal unitario."
+    },
+    {
+      "n": 373,
+      "subject": "Lenguaje",
+      "topic": "Perífrasis verbales",
+      "question": "¿Qué significado expresa «tener que + infinitivo» normalmente?",
+      "answer": "Obligación o necesidad."
+    },
+    {
+      "n": 374,
+      "subject": "Lenguaje",
+      "topic": "Pragmática",
+      "question": "¿Qué componente de un acto de habla corresponde a las palabras literalmente pronunciadas?",
+      "answer": "El acto locutivo."
+    },
+    {
+      "n": 375,
+      "subject": "Lenguaje",
+      "topic": "Pragmática",
+      "question": "¿Qué componente de un acto de habla corresponde a la intención comunicativa, como prometer u ordenar?",
+      "answer": "El acto ilocutivo."
+    },
+    {
+      "n": 376,
+      "subject": "Lenguaje",
+      "topic": "Pragmática",
+      "question": "¿Qué componente de un acto de habla corresponde al efecto que produce en el receptor?",
+      "answer": "El acto perlocutivo."
+    },
+    {
+      "n": 377,
+      "subject": "Lenguaje",
+      "topic": "Sintaxis",
+      "question": "¿Cuál es el núcleo habitual de un sintagma nominal?",
+      "answer": "Un sustantivo o un elemento que cumple su función."
+    },
+    {
+      "n": 378,
+      "subject": "Lenguaje",
+      "topic": "Sintaxis",
+      "question": "¿Cuál es el núcleo habitual de un sintagma verbal?",
+      "answer": "Un verbo."
+    },
+    {
+      "n": 379,
+      "subject": "Lenguaje",
+      "topic": "Sintaxis",
+      "question": "¿Cuál es el sujeto de «Los estudiantes terminaron temprano»?",
+      "answer": "Los estudiantes."
+    },
+    {
+      "n": 380,
+      "subject": "Lenguaje",
+      "topic": "Sintaxis",
+      "question": "¿Cuál es el complemento directo de «María compró un libro»?",
+      "answer": "un libro."
+    },
+    {
+      "n": 381,
+      "subject": "Lenguaje",
+      "topic": "Corrección y gramática",
+      "question": "¿Qué es el dequeísmo?",
+      "answer": "El uso indebido de «de» delante de «que» cuando la construcción no lo exige."
+    },
+    {
+      "n": 382,
+      "subject": "Lenguaje",
+      "topic": "Corrección y gramática",
+      "question": "¿Qué es una oración subordinada sustantiva?",
+      "answer": "Una oración subordinada que desempeña una función propia de un sintagma nominal."
+    },
+    {
+      "n": 383,
+      "subject": "Lenguaje",
+      "topic": "Escritura académica",
+      "question": "¿Qué es una referencia bibliográfica en un trabajo académico?",
+      "answer": "Los datos que permiten identificar y localizar una fuente utilizada."
+    },
+    {
+      "n": 384,
+      "subject": "Lenguaje",
+      "topic": "Escritura académica",
+      "question": "¿Cuáles son las tres partes frecuentes de un ensayo académico?",
+      "answer": "Introducción, desarrollo y conclusión."
+    },
+    {
+      "n": 385,
+      "subject": "Lenguaje",
+      "topic": "Puntuación y ortografía",
+      "question": "¿Cuál es la diferencia entre «sino» y «si no»?",
+      "answer": "«Sino» expresa oposición o corrección; «si no» reúne la conjunción condicional «si» y la negación «no»."
+    },
+    {
+      "n": 386,
+      "subject": "Lenguaje",
+      "topic": "Corrección y gramática",
+      "question": "¿Qué se entiende por laísmo?",
+      "answer": "El empleo no normativo de «la» o «las» como pronombres de complemento indirecto en construcciones en que corresponde «le» o «les»."
+    },
+    {
+      "n": 387,
+      "subject": "Literatura",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "¿A qué autor griego se atribuye la epopeya «Ilíada»?",
+      "answer": "Homero"
+    },
+    {
+      "n": 388,
+      "subject": "Literatura",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "¿Cuál obra del teatro clásico fue escrita por Aristófanes?",
+      "answer": "«Las nubes»"
+    },
+    {
+      "n": 389,
+      "subject": "Literatura",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "¿Cuál característica se relaciona con la literatura medieval europea?",
+      "answer": "Convivencia de motivos religiosos y tradición cortesana"
+    },
+    {
+      "n": 390,
+      "subject": "Literatura",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "¿Qué rasgo es característico de la novela picaresca española del siglo XVI?",
+      "answer": "Narrador de origen humilde que relata sus experiencias"
+    },
+    {
+      "n": 391,
+      "subject": "Literatura",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "La corriente literaria barroca que destaca por la complejidad de imágenes y el lenguaje ornamental se denomina:",
+      "answer": "Culteranismo"
+    },
+    {
+      "n": 392,
+      "subject": "Literatura",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "¿Qué idea se asocia principalmente al neoclasicismo de la Ilustración?",
+      "answer": "Valoración de la razón y la intención didáctica"
+    },
+    {
+      "n": 393,
+      "subject": "Literatura",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "¿A qué movimiento se asocia al poeta español Gustavo Adolfo Bécquer?",
+      "answer": "Romanticismo"
+    },
+    {
+      "n": 394,
+      "subject": "Literatura",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "¿Qué texto de tradición maya quiché relata mitos de creación y las hazañas de los héroes gemelos?",
+      "answer": "«Popol Vuh»"
+    },
+    {
+      "n": 395,
+      "subject": "Literatura",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "¿Qué escritor salvadoreño, autor de «Cuentos de barro», es representativo de la narrativa regionalista?",
+      "answer": "Salarrué"
+    },
+    {
+      "n": 396,
+      "subject": "Literatura",
+      "topic": "Práctica de estilo UES · selección histórica de contenidos",
+      "question": "¿Qué novela de Gabriel García Márquez se considera emblemática del realismo mágico y el boom latinoamericano?",
+      "answer": "«Cien años de soledad»"
+    },
+    {
+      "n": 397,
+      "subject": "Literatura",
+      "topic": "Antigüedad clásica",
+      "question": "¿Quién es el autor tradicionalmente asociado con «La Odisea»?",
+      "answer": "Homero."
+    },
+    {
+      "n": 398,
+      "subject": "Literatura",
+      "topic": "Antigüedad clásica",
+      "question": "¿Qué conflicto central narra principalmente «La Ilíada»?",
+      "answer": "Un episodio de la guerra de Troya centrado en la cólera de Aquiles."
+    },
+    {
+      "n": 399,
+      "subject": "Literatura",
+      "topic": "Antigüedad clásica",
+      "question": "¿Quién escribió la comedia griega «Las nubes»?",
+      "answer": "Aristófanes."
+    },
+    {
+      "n": 400,
+      "subject": "Literatura",
+      "topic": "Antigüedad clásica",
+      "question": "¿Quién escribió la comedia latina «La olla» («Aulularia»)?",
+      "answer": "Plauto."
+    },
+    {
+      "n": 401,
+      "subject": "Literatura",
+      "topic": "Antigüedad clásica",
+      "question": "¿Qué característica básica distingue a la tragedia griega clásica?",
+      "answer": "La representación de conflictos graves que suelen conducir a desenlaces dolorosos."
+    },
+    {
+      "n": 402,
+      "subject": "Literatura",
+      "topic": "Literatura medieval",
+      "question": "¿Cuáles son las dos grandes etapas convencionalmente diferenciadas de la Edad Media europea?",
+      "answer": "Alta Edad Media y Baja Edad Media."
+    },
+    {
+      "n": 403,
+      "subject": "Literatura",
+      "topic": "Literatura medieval",
+      "question": "¿Qué es el feudalismo en su sentido histórico europeo?",
+      "answer": "Un sistema de relaciones de dependencia personal y tenencia de tierras característico de la Europa medieval."
+    },
+    {
+      "n": 404,
+      "subject": "Literatura",
+      "topic": "Literatura medieval",
+      "question": "¿Qué obra medieval castellana tiene por protagonista a Rodrigo Díaz de Vivar?",
+      "answer": "El «Cantar de mio Cid»."
+    },
+    {
+      "n": 405,
+      "subject": "Literatura",
+      "topic": "Literatura medieval",
+      "question": "¿Qué escritor italiano compuso «La divina comedia»?",
+      "answer": "Dante Alighieri."
+    },
+    {
+      "n": 406,
+      "subject": "Literatura",
+      "topic": "Literatura medieval",
+      "question": "¿Quién escribió «La Celestina»?",
+      "answer": "Fernando de Rojas."
+    },
+    {
+      "n": 407,
+      "subject": "Literatura",
+      "topic": "Renacimiento y Siglo de Oro",
+      "question": "¿Qué movimiento cultural europeo de los siglos XV y XVI recuperó modelos de la Antigüedad clásica?",
+      "answer": "El Renacimiento."
+    },
+    {
+      "n": 408,
+      "subject": "Literatura",
+      "topic": "Renacimiento y Siglo de Oro",
+      "question": "¿Qué novela española se considera iniciadora de la novela picaresca?",
+      "answer": "«La vida de Lazarillo de Tormes y de sus fortunas y adversidades»."
+    },
+    {
+      "n": 409,
+      "subject": "Literatura",
+      "topic": "Barroco",
+      "question": "¿Qué autor español escribió «La vida es sueño»?",
+      "answer": "Pedro Calderón de la Barca."
+    },
+    {
+      "n": 410,
+      "subject": "Literatura",
+      "topic": "Renacimiento y Siglo de Oro",
+      "question": "¿Quién escribió «Don Quijote de la Mancha»?",
+      "answer": "Miguel de Cervantes Saavedra."
+    },
+    {
+      "n": 411,
+      "subject": "Literatura",
+      "topic": "Barroco",
+      "question": "¿Qué corriente barroca se asocia con Francisco de Quevedo?",
+      "answer": "El conceptismo."
+    },
+    {
+      "n": 412,
+      "subject": "Literatura",
+      "topic": "Barroco",
+      "question": "¿Qué poeta español es una figura principal del culteranismo?",
+      "answer": "Luis de Góngora."
+    },
+    {
+      "n": 413,
+      "subject": "Literatura",
+      "topic": "Ilustración y neoclasicismo",
+      "question": "¿Con qué siglo y corriente intelectual se vincula la Ilustración europea?",
+      "answer": "Con el siglo XVIII y el predominio de la razón crítica."
+    },
+    {
+      "n": 414,
+      "subject": "Literatura",
+      "topic": "Ilustración y neoclasicismo",
+      "question": "¿Qué finalidad fue frecuente en las fábulas neoclásicas?",
+      "answer": "Transmitir enseñanzas morales o didácticas."
+    },
+    {
+      "n": 415,
+      "subject": "Literatura",
+      "topic": "Ilustración y neoclasicismo",
+      "question": "¿Qué autor español del siglo XVIII escribió «El sí de las niñas»?",
+      "answer": "Leandro Fernández de Moratín."
+    },
+    {
+      "n": 416,
+      "subject": "Literatura",
+      "topic": "Romanticismo",
+      "question": "¿Qué obra lírica se asocia a Gustavo Adolfo Bécquer?",
+      "answer": "«Rimas»."
+    },
+    {
+      "n": 417,
+      "subject": "Literatura",
+      "topic": "Romanticismo",
+      "question": "¿Qué valor estético destaca especialmente el Romanticismo?",
+      "answer": "La expresión de la subjetividad, la imaginación y los sentimientos."
+    },
+    {
+      "n": 418,
+      "subject": "Literatura",
+      "topic": "Romanticismo",
+      "question": "¿Qué escritor francés se asocia con «Los miserables» y el romanticismo literario?",
+      "answer": "Víctor Hugo."
+    },
+    {
+      "n": 419,
+      "subject": "Literatura",
+      "topic": "Realismo y naturalismo",
+      "question": "¿Qué movimiento literario se propone representar la sociedad con atención a la vida cotidiana?",
+      "answer": "El realismo."
+    },
+    {
+      "n": 420,
+      "subject": "Literatura",
+      "topic": "Realismo y naturalismo",
+      "question": "¿Qué corriente vinculada al realismo subraya la influencia de la herencia y el medio social?",
+      "answer": "El naturalismo."
+    },
+    {
+      "n": 421,
+      "subject": "Literatura",
+      "topic": "Realismo y naturalismo",
+      "question": "¿Qué escritor francés es un representante destacado del naturalismo?",
+      "answer": "Émile Zola."
+    },
+    {
+      "n": 422,
+      "subject": "Literatura",
+      "topic": "Literatura del siglo XX",
+      "question": "¿Qué escritor checo de lengua alemana es autor de «La metamorfosis»?",
+      "answer": "Franz Kafka."
+    },
+    {
+      "n": 423,
+      "subject": "Literatura",
+      "topic": "Literatura del siglo XX",
+      "question": "¿Qué novelista irlandés escribió «Ulises» («Ulysses»)?",
+      "answer": "James Joyce."
+    },
+    {
+      "n": 424,
+      "subject": "Literatura",
+      "topic": "Literatura precolombina",
+      "question": "¿Qué obra maya quiché conserva relatos de creación y episodios míticos?",
+      "answer": "El «Popol Vuh»."
+    },
+    {
+      "n": 425,
+      "subject": "Literatura",
+      "topic": "Literatura precolombina",
+      "question": "¿Qué obra dramática de tradición andina tiene como personaje central a Ollantay?",
+      "answer": "«Ollantay»."
+    },
+    {
+      "n": 426,
+      "subject": "Literatura",
+      "topic": "Literatura precolombina",
+      "question": "¿Quién fue Nezahualcóyotl en el ámbito literario prehispánico?",
+      "answer": "Un gobernante y poeta de Texcoco asociado con la tradición lírica náhuatl."
+    },
+    {
+      "n": 427,
+      "subject": "Literatura",
+      "topic": "Literatura salvadoreña",
+      "question": "¿Qué escritor salvadoreño publicó «Cuentos de barro»?",
+      "answer": "Salarrué (Salvador Salazar Arrué)."
+    },
+    {
+      "n": 428,
+      "subject": "Literatura",
+      "topic": "Literatura salvadoreña",
+      "question": "¿Qué escritor salvadoreño es autor de «El mínimo vital»?",
+      "answer": "Alberto Masferrer."
+    },
+    {
+      "n": 429,
+      "subject": "Literatura",
+      "topic": "Literatura salvadoreña",
+      "question": "¿Qué escritor salvadoreño de la Generación Comprometida publicó «Taberna y otros lugares»?",
+      "answer": "Roque Dalton."
+    },
+    {
+      "n": 430,
+      "subject": "Literatura",
+      "topic": "Literatura salvadoreña",
+      "question": "¿A qué generación literaria salvadoreña se asocia a Oswaldo Escobar Velado?",
+      "answer": "A la Generación del 44."
+    },
+    {
+      "n": 431,
+      "subject": "Literatura",
+      "topic": "Literatura salvadoreña",
+      "question": "¿Qué poeta salvadoreña escribió «Tierra de infancia»?",
+      "answer": "Claudia Lars."
+    },
+    {
+      "n": 432,
+      "subject": "Literatura",
+      "topic": "Literatura salvadoreña",
+      "question": "¿Quién escribió la novela salvadoreña «Un día en la vida»?",
+      "answer": "Manlio Argueta."
+    },
+    {
+      "n": 433,
+      "subject": "Literatura",
+      "topic": "Literatura salvadoreña",
+      "question": "¿Quién escribió la novela salvadoreña de posguerra «Baile con serpientes»?",
+      "answer": "Horacio Castellanos Moya."
+    },
+    {
+      "n": 434,
+      "subject": "Literatura",
+      "topic": "Modernismo y romanticismo americano",
+      "question": "¿Quién escribió «Azul...», obra clave del modernismo hispanoamericano?",
+      "answer": "Rubén Darío."
+    },
+    {
+      "n": 435,
+      "subject": "Literatura",
+      "topic": "Modernismo y romanticismo americano",
+      "question": "¿En qué año se publicó por primera vez «Azul...» de Rubén Darío?",
+      "answer": "En 1888."
+    },
+    {
+      "n": 436,
+      "subject": "Literatura",
+      "topic": "Modernismo y romanticismo americano",
+      "question": "¿Quién escribió la novela romántica colombiana «María»?",
+      "answer": "Jorge Isaacs."
+    },
+    {
+      "n": 437,
+      "subject": "Literatura",
+      "topic": "Realismo y regionalismo americano",
+      "question": "¿Quién escribió el poema narrativo gauchesco «Martín Fierro»?",
+      "answer": "José Hernández."
+    },
+    {
+      "n": 438,
+      "subject": "Literatura",
+      "topic": "Realismo y regionalismo americano",
+      "question": "¿Quién escribió la novela regionalista «Doña Bárbara»?",
+      "answer": "Rómulo Gallegos."
+    },
+    {
+      "n": 439,
+      "subject": "Literatura",
+      "topic": "Realismo y regionalismo americano",
+      "question": "¿Quién escribió «La vorágine», novela asociada al regionalismo hispanoamericano?",
+      "answer": "José Eustasio Rivera."
+    },
+    {
+      "n": 440,
+      "subject": "Literatura",
+      "topic": "Boom y vanguardias latinoamericanas",
+      "question": "¿Quién escribió la novela «Rayuela»?",
+      "answer": "Julio Cortázar."
+    },
+    {
+      "n": 441,
+      "subject": "Literatura",
+      "topic": "Boom y vanguardias latinoamericanas",
+      "question": "¿Quién escribió «La ciudad y los perros»?",
+      "answer": "Mario Vargas Llosa."
+    },
+    {
+      "n": 442,
+      "subject": "Literatura",
+      "topic": "Boom y vanguardias latinoamericanas",
+      "question": "¿Quién escribió «La muerte de Artemio Cruz»?",
+      "answer": "Carlos Fuentes."
+    },
+    {
+      "n": 443,
+      "subject": "Literatura",
+      "topic": "Boom y realismo mágico",
+      "question": "¿Qué novela de Juan Rulfo transcurre principalmente en Comala?",
+      "answer": "«Pedro Páramo»."
+    },
+    {
+      "n": 444,
+      "subject": "Literatura",
+      "topic": "Boom y realismo mágico",
+      "question": "¿Qué escritor guatemalteco es autor de «El señor presidente»?",
+      "answer": "Miguel Ángel Asturias."
+    },
+    {
+      "n": 445,
+      "subject": "Literatura",
+      "topic": "Boom y realismo mágico",
+      "question": "¿Quién escribió «El reino de este mundo» y desarrolló el concepto de lo real maravilloso americano?",
+      "answer": "Alejo Carpentier."
+    },
+    {
+      "n": 446,
+      "subject": "Literatura",
+      "topic": "Vanguardias",
+      "question": "¿Qué poeta chileno desarrolló el creacionismo literario y escribió «Altazor»?",
+      "answer": "Vicente Huidobro."
+    },
+    {
+      "n": 447,
+      "subject": "Literatura",
+      "topic": "Vanguardias",
+      "question": "¿Quién escribió el poemario vanguardista «Trilce»?",
+      "answer": "César Vallejo."
+    },
+    {
+      "n": 448,
+      "subject": "Literatura",
+      "topic": "Boom y realismo mágico",
+      "question": "¿Qué obra de Gabriel García Márquez narra la historia de los Buendía en Macondo?",
+      "answer": "«Cien años de soledad»."
+    },
+    {
+      "n": 449,
+      "subject": "Literatura",
+      "topic": "Figuras literarias",
+      "question": "¿Qué es una metáfora como figura literaria?",
+      "answer": "Una identificación o traslado de significado entre realidades basado en una semejanza."
+    },
+    {
+      "n": 450,
+      "subject": "Literatura",
+      "topic": "Figuras literarias",
+      "question": "¿Qué es una hipérbole?",
+      "answer": "Una exageración expresiva utilizada como recurso retórico."
+    }
+  ],
+  "sim": [
+    {
+      "n": 1,
+      "subject": "Ciencias Sociales",
+      "topic": "Simulacro de admisión",
+      "question": "¿Qué disciplina de las ciencias sociales estudia las relaciones, instituciones y comportamientos de los grupos humanos?",
+      "answer": "Sociología"
+    },
+    {
+      "n": 2,
+      "subject": "Ciencias Sociales",
+      "topic": "Simulacro de admisión",
+      "question": "¿Qué cultivo fue la principal base de la economía agroexportadora salvadoreña durante la República cafetalera?",
+      "answer": "Café"
+    },
+    {
+      "n": 3,
+      "subject": "Ciencias Sociales",
+      "topic": "Simulacro de admisión",
+      "question": "El modelo de industrialización por sustitución de importaciones buscaba principalmente:",
+      "answer": "Reemplazar bienes importados por producción nacional"
+    },
+    {
+      "n": 4,
+      "subject": "Ciencias Sociales",
+      "topic": "Simulacro de admisión",
+      "question": "¿En qué año ocurrió la guerra entre El Salvador y Honduras conocida popularmente como la «Guerra de las Cien Horas»?",
+      "answer": "1969"
+    },
+    {
+      "n": 5,
+      "subject": "Ciencias Sociales",
+      "topic": "Simulacro de admisión",
+      "question": "¿Cuál de los siguientes hechos marcó el fin del gobierno del general Maximiliano Hernández Martínez?",
+      "answer": "La huelga de brazos caídos de 1944"
+    },
+    {
+      "n": 6,
+      "subject": "Ciencias Sociales",
+      "topic": "Simulacro de admisión",
+      "question": "Durante la Guerra Fría, la «doctrina de seguridad nacional» en América Latina vinculó la seguridad estatal con:",
+      "answer": "La defensa frente a la supuesta amenaza del comunismo interno"
+    },
+    {
+      "n": 7,
+      "subject": "Ciencias Sociales",
+      "topic": "Simulacro de admisión",
+      "question": "¿En qué ciudad se firmaron los Acuerdos de Paz que pusieron fin al conflicto armado salvadoreño en 1992?",
+      "answer": "Ciudad de México (Castillo de Chapultepec)"
+    },
+    {
+      "n": 8,
+      "subject": "Ciencias Sociales",
+      "topic": "Simulacro de admisión",
+      "question": "La teoría de la dependencia sostiene que el subdesarrollo de muchos países se relaciona con:",
+      "answer": "Relaciones desiguales entre centro y periferia"
+    },
+    {
+      "n": 9,
+      "subject": "Ciencias Sociales",
+      "topic": "Simulacro de admisión",
+      "question": "Una de las transformaciones institucionales derivadas de los Acuerdos de Paz fue:",
+      "answer": "La creación de la Policía Nacional Civil"
+    },
+    {
+      "n": 10,
+      "subject": "Ciencias Sociales",
+      "topic": "Simulacro de admisión",
+      "question": "La Guerra Fría se caracterizó principalmente por la rivalidad geopolítica entre:",
+      "answer": "Estados Unidos y la Unión Soviética"
+    },
+    {
+      "n": 11,
+      "subject": "Ciencias Sociales",
+      "topic": "Simulacro de admisión",
+      "question": "¿Qué acontecimiento de 1989 simbolizó la apertura del bloque de Europa oriental y el debilitamiento de la división europea?",
+      "answer": "La caída del Muro de Berlín"
+    },
+    {
+      "n": 12,
+      "subject": "Ciencias Sociales",
+      "topic": "Simulacro de admisión",
+      "question": "La combinación de prácticas culturales de distinta procedencia que origina expresiones nuevas se denomina:",
+      "answer": "Hibridación cultural"
+    },
+    {
+      "n": 13,
+      "subject": "Ciencias Sociales",
+      "topic": "Simulacro de admisión",
+      "question": "¿Cuál es una función típica de un consulado?",
+      "answer": "Brindar asistencia y trámites a sus nacionales en el exterior"
+    },
+    {
+      "n": 14,
+      "subject": "Ciencias Sociales",
+      "topic": "Simulacro de admisión",
+      "question": "El Producto Interno Bruto (PIB) per cápita se calcula dividiendo:",
+      "answer": "El PIB entre el número de habitantes"
+    },
+    {
+      "n": 15,
+      "subject": "Ciencias Sociales",
+      "topic": "Simulacro de admisión",
+      "question": "Un impuesto indirecto que grava generalmente el consumo de bienes y servicios en El Salvador es:",
+      "answer": "El impuesto al valor agregado (IVA)"
+    },
+    {
+      "n": 16,
+      "subject": "Ciencias Sociales",
+      "topic": "Simulacro de admisión",
+      "question": "¿Cuál acción expresa mejor el principio de desarrollo sostenible?",
+      "answer": "Satisfacer necesidades actuales sin comprometer a las generaciones futuras"
+    },
+    {
+      "n": 17,
+      "subject": "Ciencias Sociales",
+      "topic": "Simulacro de admisión",
+      "question": "¿Qué efecto económico importante pueden tener las remesas enviadas por salvadoreños residentes en el exterior?",
+      "answer": "Aumentar el ingreso disponible de los hogares receptores"
+    },
+    {
+      "n": 18,
+      "subject": "Ciencias Sociales",
+      "topic": "Simulacro de admisión",
+      "question": "¿Cuál de los siguientes es un derecho económico y social reconocido en instrumentos de derechos humanos?",
+      "answer": "Acceso a la educación"
+    },
+    {
+      "n": 19,
+      "subject": "Ciencias Sociales",
+      "topic": "Simulacro de admisión",
+      "question": "El derecho a un ambiente sano suele relacionarse con los derechos humanos de:",
+      "answer": "Solidaridad o tercera generación"
+    },
+    {
+      "n": 20,
+      "subject": "Ciencias Sociales",
+      "topic": "Simulacro de admisión",
+      "question": "¿Cuál característica corresponde al comercio electrónico?",
+      "answer": "Permite transacciones comerciales mediante redes digitales"
+    },
+    {
+      "n": 21,
+      "subject": "Biología",
+      "topic": "Simulacro de admisión",
+      "question": "¿Qué organelo de las células eucariotas participa directamente en la producción de ATP mediante respiración celular aeróbica?",
+      "answer": "Mitocondria"
+    },
+    {
+      "n": 22,
+      "subject": "Biología",
+      "topic": "Simulacro de admisión",
+      "question": "El proceso por el cual las plantas transforman energía lumínica en energía química se denomina:",
+      "answer": "Fotosíntesis"
+    },
+    {
+      "n": 23,
+      "subject": "Biología",
+      "topic": "Simulacro de admisión",
+      "question": "La mayor parte de la fase de síntesis de ADN del ciclo celular ocurre durante:",
+      "answer": "Interfase, período S"
+    },
+    {
+      "n": 24,
+      "subject": "Biología",
+      "topic": "Simulacro de admisión",
+      "question": "Una característica de la mitosis en una célula somática diploide es que produce:",
+      "answer": "Dos células hijas con igual número de cromosomas"
+    },
+    {
+      "n": 25,
+      "subject": "Biología",
+      "topic": "Simulacro de admisión",
+      "question": "¿Durante qué proceso se reduce a la mitad el número de cromosomas para formar células sexuales?",
+      "answer": "Meiosis"
+    },
+    {
+      "n": 26,
+      "subject": "Biología",
+      "topic": "Simulacro de admisión",
+      "question": "¿Cuál componente del ADN se aparea normalmente con la adenina?",
+      "answer": "Timina"
+    },
+    {
+      "n": 27,
+      "subject": "Biología",
+      "topic": "Simulacro de admisión",
+      "question": "El paso de información genética desde ADN hacia una molécula de ARN mensajero se llama:",
+      "answer": "Transcripción"
+    },
+    {
+      "n": 28,
+      "subject": "Biología",
+      "topic": "Simulacro de admisión",
+      "question": "¿En qué estructura celular se lleva a cabo la traducción del ARN mensajero a proteína?",
+      "answer": "Ribosomas"
+    },
+    {
+      "n": 29,
+      "subject": "Biología",
+      "topic": "Simulacro de admisión",
+      "question": "Si dos progenitores heterocigotos Aa se cruzan (Aa × Aa), ¿qué probabilidad tiene su descendencia de presentar el genotipo aa?",
+      "answer": "25 %"
+    },
+    {
+      "n": 30,
+      "subject": "Biología",
+      "topic": "Simulacro de admisión",
+      "question": "¿Cuántos cromosomas posee normalmente una célula somática humana?",
+      "answer": "46"
+    },
+    {
+      "n": 31,
+      "subject": "Biología",
+      "topic": "Simulacro de admisión",
+      "question": "¿Qué nombre recibe una alteración permanente de la secuencia de nucleótidos del material genético?",
+      "answer": "Mutación"
+    },
+    {
+      "n": 32,
+      "subject": "Biología",
+      "topic": "Simulacro de admisión",
+      "question": "¿Cuál de las siguientes características distingue a las células procariotas?",
+      "answer": "Carecen de núcleo delimitado por membrana"
+    },
+    {
+      "n": 33,
+      "subject": "Biología",
+      "topic": "Simulacro de admisión",
+      "question": "¿En cuál de los siguientes dominios se clasifican los animales, plantas y hongos?",
+      "answer": "Eukarya"
+    },
+    {
+      "n": 34,
+      "subject": "Biología",
+      "topic": "Simulacro de admisión",
+      "question": "La diferencia química característica de las membranas de arqueas y bacterias incluye que:",
+      "answer": "En arqueas son comunes enlaces éter en sus lípidos"
+    },
+    {
+      "n": 35,
+      "subject": "Biología",
+      "topic": "Simulacro de admisión",
+      "question": "En la clasificación biológica, el nivel inmediatamente superior al reino es:",
+      "answer": "Dominio"
+    },
+    {
+      "n": 36,
+      "subject": "Física",
+      "topic": "Simulacro de admisión",
+      "question": "¿Cuál es la unidad del Sistema Internacional para medir la aceleración?",
+      "answer": "m/s²"
+    },
+    {
+      "n": 37,
+      "subject": "Física",
+      "topic": "Simulacro de admisión",
+      "question": "¿Cuántos centímetros cúbicos equivalen a 1 metro cúbico?",
+      "answer": "10⁶"
+    },
+    {
+      "n": 38,
+      "subject": "Física",
+      "topic": "Simulacro de admisión",
+      "question": "El número 0.000045 expresado correctamente en notación científica es:",
+      "answer": "4.5 × 10⁻⁵"
+    },
+    {
+      "n": 39,
+      "subject": "Física",
+      "topic": "Simulacro de admisión",
+      "question": "Una gráfica de posición respecto al tiempo es una línea recta de pendiente constante positiva. Esto indica:",
+      "answer": "Velocidad constante positiva"
+    },
+    {
+      "n": 40,
+      "subject": "Física",
+      "topic": "Simulacro de admisión",
+      "question": "Si un cuerpo se desplaza 3 m al este y luego 4 m al norte, ¿cuánto mide el desplazamiento resultante?",
+      "answer": "5 m"
+    },
+    {
+      "n": 41,
+      "subject": "Física",
+      "topic": "Simulacro de admisión",
+      "question": "Una magnitud vectorial se distingue de una escalar porque incluye:",
+      "answer": "Módulo, dirección y sentido"
+    },
+    {
+      "n": 42,
+      "subject": "Física",
+      "topic": "Simulacro de admisión",
+      "question": "Un vehículo recorre 120 km en 2 h manteniendo rapidez constante. ¿Cuál es su rapidez?",
+      "answer": "60 km/h"
+    },
+    {
+      "n": 43,
+      "subject": "Física",
+      "topic": "Simulacro de admisión",
+      "question": "Un móvil parte del reposo y alcanza 20 m/s en 5 s con aceleración constante. ¿Cuál es su aceleración?",
+      "answer": "4 m/s²"
+    },
+    {
+      "n": 44,
+      "subject": "Física",
+      "topic": "Simulacro de admisión",
+      "question": "En ausencia de resistencia del aire, ¿cuál es la aceleración de un objeto lanzado verticalmente hacia arriba cuando alcanza la altura máxima?",
+      "answer": "Aproximadamente 9.8 m/s² hacia abajo"
+    },
+    {
+      "n": 45,
+      "subject": "Física",
+      "topic": "Simulacro de admisión",
+      "question": "Desde el reposo, un cuerpo cae libremente durante 2 s. Usando g = 10 m/s², ¿qué distancia recorre?",
+      "answer": "20 m"
+    },
+    {
+      "n": 46,
+      "subject": "Física",
+      "topic": "Simulacro de admisión",
+      "question": "En un tiro parabólico ideal, despreciando el rozamiento, ¿qué componente de la velocidad permanece constante?",
+      "answer": "La horizontal"
+    },
+    {
+      "n": 47,
+      "subject": "Física",
+      "topic": "Simulacro de admisión",
+      "question": "Un proyectil es lanzado horizontalmente desde cierta altura. Si no hay resistencia del aire, su movimiento vertical es:",
+      "answer": "Uniformemente acelerado por la gravedad"
+    },
+    {
+      "n": 48,
+      "subject": "Física",
+      "topic": "Simulacro de admisión",
+      "question": "Dos vectores de 5 N tienen igual dirección y sentidos opuestos. ¿Cuál es la magnitud de su suma?",
+      "answer": "0 N"
+    },
+    {
+      "n": 49,
+      "subject": "Física",
+      "topic": "Simulacro de admisión",
+      "question": "En una gráfica velocidad-tiempo, ¿qué representa el área algebraica comprendida entre la curva y el eje del tiempo?",
+      "answer": "El desplazamiento"
+    },
+    {
+      "n": 50,
+      "subject": "Física",
+      "topic": "Simulacro de admisión",
+      "question": "Un automóvil cambia su velocidad de 10 m/s a 30 m/s en 4 s. ¿Cuánto vale la aceleración media?",
+      "answer": "5 m/s²"
+    },
+    {
+      "n": 51,
+      "subject": "Química",
+      "topic": "Simulacro de admisión",
+      "question": "El número atómico Z de un elemento indica la cantidad de:",
+      "answer": "Protones en el núcleo"
+    },
+    {
+      "n": 52,
+      "subject": "Química",
+      "topic": "Simulacro de admisión",
+      "question": "Dos átomos son isótopos del mismo elemento cuando poseen:",
+      "answer": "Igual número de protones y distinto número de neutrones"
+    },
+    {
+      "n": 53,
+      "subject": "Química",
+      "topic": "Simulacro de admisión",
+      "question": "Un mol de entidades contiene aproximadamente:",
+      "answer": "6.022 × 10²³ entidades"
+    },
+    {
+      "n": 54,
+      "subject": "Química",
+      "topic": "Simulacro de admisión",
+      "question": "El número cuántico principal, simbolizado por n, está relacionado principalmente con:",
+      "answer": "El nivel energético principal"
+    },
+    {
+      "n": 55,
+      "subject": "Química",
+      "topic": "Simulacro de admisión",
+      "question": "¿Qué configuración electrónica corresponde a un átomo neutro de sodio (Z = 11) en estado fundamental?",
+      "answer": "1s² 2s² 2p⁶ 3s¹"
+    },
+    {
+      "n": 56,
+      "subject": "Química",
+      "topic": "Simulacro de admisión",
+      "question": "En la tabla periódica, el radio atómico generalmente aumenta cuando:",
+      "answer": "Se desciende en un grupo"
+    },
+    {
+      "n": 57,
+      "subject": "Química",
+      "topic": "Simulacro de admisión",
+      "question": "¿Qué enlace se forma habitualmente por transferencia de electrones entre un metal y un no metal?",
+      "answer": "Iónico"
+    },
+    {
+      "n": 58,
+      "subject": "Química",
+      "topic": "Simulacro de admisión",
+      "question": "Si se disuelven 0.5 mol de soluto para preparar 2.0 L de solución, ¿cuál es su molaridad?",
+      "answer": "0.25 mol/L"
+    },
+    {
+      "n": 59,
+      "subject": "Química",
+      "topic": "Simulacro de admisión",
+      "question": "¿Cuál es la ecuación balanceada de formación de agua a partir de hidrógeno y oxígeno?",
+      "answer": "2H₂ + O₂ → 2H₂O"
+    },
+    {
+      "n": 60,
+      "subject": "Química",
+      "topic": "Simulacro de admisión",
+      "question": "Una disolución acuosa con pH = 3, a 25 °C, se clasifica como:",
+      "answer": "Ácida"
+    },
+    {
+      "n": 61,
+      "subject": "Matemática",
+      "topic": "Simulacro de admisión",
+      "question": "El conjunto solución de la desigualdad −2 ≤ x < 5 es:",
+      "answer": "[−2, 5)",
+      "steps": [
+        "Leemos el signo −2 ≤ x: el número −2 sí pertenece al conjunto.",
+        "Leemos x < 5: el número 5 queda excluido.",
+        "Se escribe [−2, 5): corchete en −2 y paréntesis en 5."
+      ]
+    },
+    {
+      "n": 62,
+      "subject": "Matemática",
+      "topic": "Simulacro de admisión",
+      "question": "¿Cuál es la solución de la ecuación |2x − 3| = 5?",
+      "answer": "x = 4 o x = −1",
+      "steps": [
+        "Si el valor absoluto de 2x − 3 es 5, entonces 2x − 3 = 5 o 2x − 3 = −5.",
+        "Primer caso: 2x = 8 y x = 4.",
+        "Segundo caso: 2x = −2 y x = −1; ambos cumplen la ecuación."
+      ]
+    },
+    {
+      "n": 63,
+      "subject": "Matemática",
+      "topic": "Simulacro de admisión",
+      "question": "Simplifica (2³ × 2⁴) / 2⁵.",
+      "answer": "2²",
+      "steps": [
+        "Al multiplicar potencias de igual base, sumamos exponentes: 2³ · 2⁴ = 2⁷.",
+        "Al dividir potencias de igual base, restamos exponentes: 2⁷ / 2⁵ = 2².",
+        "El resultado es 4."
+      ]
+    },
+    {
+      "n": 64,
+      "subject": "Matemática",
+      "topic": "Simulacro de admisión",
+      "question": "¿Cuánto vale √72 simplificado?",
+      "answer": "6√2",
+      "steps": [
+        "Descomponemos 72 como 36 · 2.",
+        "Aplicamos √(36 · 2) = √36 · √2.",
+        "Como √36 = 6, resulta 6√2."
+      ]
+    },
+    {
+      "n": 65,
+      "subject": "Matemática",
+      "topic": "Simulacro de admisión",
+      "question": "¿Cuál es el resultado de multiplicar (x + 3)(x − 2)?",
+      "answer": "x² + x − 6",
+      "steps": [
+        "Distribuimos: x·x + x·(−2) + 3·x + 3·(−2).",
+        "Obtenemos x² − 2x + 3x − 6.",
+        "Combinamos términos semejantes: x² + x − 6."
+      ]
+    },
+    {
+      "n": 66,
+      "subject": "Matemática",
+      "topic": "Simulacro de admisión",
+      "question": "¿Cuál es la factorización correcta de x² − 9?",
+      "answer": "(x − 3)(x + 3)",
+      "steps": [
+        "Reconocemos diferencia de cuadrados: x² − 3².",
+        "Usamos a² − b² = (a − b)(a + b).",
+        "Resultado: (x − 3)(x + 3)."
+      ]
+    },
+    {
+      "n": 67,
+      "subject": "Matemática",
+      "topic": "Simulacro de admisión",
+      "question": "Resuelve la ecuación cuadrática x² − 5x + 6 = 0.",
+      "answer": "x = 2 o 3",
+      "steps": [
+        "Buscamos dos números que sumen −5 y multipliquen 6: −2 y −3.",
+        "Factorizamos: (x − 2)(x − 3) = 0.",
+        "Igualamos cada factor a cero: x = 2 o x = 3."
+      ]
+    },
+    {
+      "n": 68,
+      "subject": "Matemática",
+      "topic": "Simulacro de admisión",
+      "question": "¿Cuál es el conjunto solución de 3x − 4 > 8?",
+      "answer": "x > 4",
+      "steps": [
+        "Partimos de 3x − 4 > 8.",
+        "Sumamos 4 en ambos lados: 3x > 12.",
+        "Dividimos entre 3, que es positivo: x > 4."
+      ]
+    },
+    {
+      "n": 69,
+      "subject": "Matemática",
+      "topic": "Simulacro de admisión",
+      "question": "Resuelve el sistema: x + y = 7; x − y = 1.",
+      "answer": "x = 4, y = 3",
+      "steps": [
+        "Sumamos x + y = 7 y x − y = 1 para eliminar y.",
+        "Queda 2x = 8; por tanto, x = 4.",
+        "Sustituimos en x + y = 7: y = 3."
+      ]
+    },
+    {
+      "n": 70,
+      "subject": "Matemática",
+      "topic": "Simulacro de admisión",
+      "question": "Dos rectas paralelas son cortadas por una transversal. Si un ángulo correspondiente mide 65°, ¿cuánto mide su correspondiente en la otra intersección?",
+      "answer": "65°",
+      "steps": [
+        "En rectas paralelas cortadas por una transversal, los ángulos correspondientes son congruentes.",
+        "Por tanto, al ángulo de 65° le corresponde otro de 65°."
+      ]
+    },
+    {
+      "n": 71,
+      "subject": "Matemática",
+      "topic": "Simulacro de admisión",
+      "question": "En un triángulo, dos ángulos interiores miden 45° y 65°. ¿Cuánto mide el tercero?",
+      "answer": "70°",
+      "steps": [
+        "La suma de los ángulos interiores de un triángulo es 180°.",
+        "Ángulo faltante = 180° − 45° − 65° = 70°."
+      ]
+    },
+    {
+      "n": 72,
+      "subject": "Matemática",
+      "topic": "Simulacro de admisión",
+      "question": "Un triángulo rectángulo tiene catetos de 6 cm y 8 cm. ¿Cuánto mide la hipotenusa?",
+      "answer": "10 cm",
+      "steps": [
+        "Usamos Pitágoras: c² = a² + b².",
+        "c² = 6² + 8² = 36 + 64 = 100.",
+        "La hipotenusa es c = √100 = 10 cm."
+      ]
+    },
+    {
+      "n": 73,
+      "subject": "Matemática",
+      "topic": "Simulacro de admisión",
+      "question": "En un triángulo rectángulo, si el cateto opuesto a θ mide 3 y la hipotenusa mide 5, ¿cuál es sen θ?",
+      "answer": "3/5",
+      "steps": [
+        "Definición: sen θ = cateto opuesto / hipotenusa.",
+        "Reemplazamos: sen θ = 3/5 = 0.6."
+      ]
+    },
+    {
+      "n": 74,
+      "subject": "Matemática",
+      "topic": "Simulacro de admisión",
+      "question": "¿Cuál es la ecuación de la recta de pendiente 2 que pasa por (0, −3)?",
+      "answer": "y = 2x − 3",
+      "steps": [
+        "Forma pendiente–intersección: y = mx + b.",
+        "Dado m = 2 y el punto (0, −3), la intersección es b = −3.",
+        "La ecuación es y = 2x − 3."
+      ]
+    },
+    {
+      "n": 75,
+      "subject": "Matemática",
+      "topic": "Simulacro de admisión",
+      "question": "La circunferencia de centro (2, −1) y radio 3 tiene ecuación:",
+      "answer": "(x − 2)² + (y + 1)² = 9",
+      "steps": [
+        "Ecuación de circunferencia: (x − h)² + (y − k)² = r².",
+        "Con centro (h,k) = (2,−1) y radio r = 3: (x − 2)² + (y + 1)² = 9."
+      ]
+    },
+    {
+      "n": 76,
+      "subject": "Matemática",
+      "topic": "Simulacro de admisión",
+      "question": "¿Cuál es el dominio real de f(x) = √(x − 4)?",
+      "answer": "[4, +∞)",
+      "steps": [
+        "Para una raíz cuadrada real, el radicando debe ser mayor o igual que cero.",
+        "Entonces x − 4 ≥ 0, por lo que x ≥ 4.",
+        "El dominio es [4, +∞)."
+      ]
+    },
+    {
+      "n": 77,
+      "subject": "Matemática",
+      "topic": "Simulacro de admisión",
+      "question": "Si f(x) = 2x + 1 y g(x) = x², ¿cuánto vale (f ∘ g)(3)?",
+      "answer": "19",
+      "steps": [
+        "Primero aplicamos g: g(3) = 3² = 9.",
+        "Después evaluamos f(9) = 2(9) + 1 = 19.",
+        "Por eso (f ∘ g)(3) = 19."
+      ]
+    },
+    {
+      "n": 78,
+      "subject": "Matemática",
+      "topic": "Simulacro de admisión",
+      "question": "Si f(x) = 3x − 6, ¿cuál es su función inversa?",
+      "answer": "f⁻¹(x) = (x + 6)/3",
+      "steps": [
+        "Escribimos y = 3x − 6.",
+        "Despejamos x: y + 6 = 3x, entonces x = (y + 6)/3.",
+        "Intercambiamos variables: f⁻¹(x) = (x + 6)/3."
+      ]
+    },
+    {
+      "n": 79,
+      "subject": "Matemática",
+      "topic": "Simulacro de admisión",
+      "question": "Resuelve 2ˣ = 16.",
+      "answer": "x = 4",
+      "steps": [
+        "Escribimos 16 como potencia de 2: 16 = 2⁴.",
+        "Entonces 2ˣ = 2⁴ implica x = 4."
+      ]
+    },
+    {
+      "n": 80,
+      "subject": "Matemática",
+      "topic": "Simulacro de admisión",
+      "question": "¿Cuál es el valor de log₃ 81?",
+      "answer": "4",
+      "steps": [
+        "Por definición, log₃(81) = x equivale a 3ˣ = 81.",
+        "Como 81 = 3⁴, obtenemos x = 4."
+      ]
+    },
+    {
+      "n": 81,
+      "subject": "Lenguaje",
+      "topic": "Simulacro de admisión",
+      "question": "¿Cuál es la escritura correcta para contrastar dos ideas? «No quería café, ___ té».",
+      "answer": "sino"
+    },
+    {
+      "n": 82,
+      "subject": "Lenguaje",
+      "topic": "Simulacro de admisión",
+      "question": "Elige la oración que utiliza correctamente «por qué».",
+      "answer": "No sé por qué no llegó a tiempo."
+    },
+    {
+      "n": 83,
+      "subject": "Lenguaje",
+      "topic": "Simulacro de admisión",
+      "question": "¿Cuál oración está escrita correctamente?",
+      "answer": "Vamos a ver la película."
+    },
+    {
+      "n": 84,
+      "subject": "Lenguaje",
+      "topic": "Simulacro de admisión",
+      "question": "¿Cuál de las siguientes palabras contiene un hiato?",
+      "answer": "País"
+    },
+    {
+      "n": 85,
+      "subject": "Lenguaje",
+      "topic": "Simulacro de admisión",
+      "question": "¿Cuál enunciado utiliza correctamente la tilde diacrítica en un interrogativo indirecto?",
+      "answer": "Dime cuándo llegas."
+    },
+    {
+      "n": 86,
+      "subject": "Lenguaje",
+      "topic": "Simulacro de admisión",
+      "question": "¿Qué tipo de conjunción es «pero» en «Estudió mucho, pero se equivocó»?",
+      "answer": "Coordinante adversativa"
+    },
+    {
+      "n": 87,
+      "subject": "Lenguaje",
+      "topic": "Simulacro de admisión",
+      "question": "En la oración «La estudiante entregó el trabajo ayer», ¿cuál es el sujeto?",
+      "answer": "La estudiante"
+    },
+    {
+      "n": 88,
+      "subject": "Lenguaje",
+      "topic": "Simulacro de admisión",
+      "question": "¿Qué expresión contiene dequeísmo, considerado no normativo en este contexto?",
+      "answer": "Pienso de que la respuesta es correcta."
+    },
+    {
+      "n": 89,
+      "subject": "Lenguaje",
+      "topic": "Simulacro de admisión",
+      "question": "En un texto argumentativo, «por consiguiente» funciona como conector de:",
+      "answer": "Consecuencia"
+    },
+    {
+      "n": 90,
+      "subject": "Lenguaje",
+      "topic": "Simulacro de admisión",
+      "question": "En una referencia bibliográfica con normas APA 7.ª edición, ¿qué elemento sigue habitualmente al apellido e inicial del autor de un libro?",
+      "answer": "El año de publicación entre paréntesis"
+    },
+    {
+      "n": 91,
+      "subject": "Literatura",
+      "topic": "Simulacro de admisión",
+      "question": "¿A qué autor griego se atribuye la epopeya «Ilíada»?",
+      "answer": "Homero"
+    },
+    {
+      "n": 92,
+      "subject": "Literatura",
+      "topic": "Simulacro de admisión",
+      "question": "¿Cuál obra del teatro clásico fue escrita por Aristófanes?",
+      "answer": "«Las nubes»"
+    },
+    {
+      "n": 93,
+      "subject": "Literatura",
+      "topic": "Simulacro de admisión",
+      "question": "¿Cuál característica se relaciona con la literatura medieval europea?",
+      "answer": "Convivencia de motivos religiosos y tradición cortesana"
+    },
+    {
+      "n": 94,
+      "subject": "Literatura",
+      "topic": "Simulacro de admisión",
+      "question": "¿Qué rasgo es característico de la novela picaresca española del siglo XVI?",
+      "answer": "Narrador de origen humilde que relata sus experiencias"
+    },
+    {
+      "n": 95,
+      "subject": "Literatura",
+      "topic": "Simulacro de admisión",
+      "question": "La corriente literaria barroca que destaca por la complejidad de imágenes y el lenguaje ornamental se denomina:",
+      "answer": "Culteranismo"
+    },
+    {
+      "n": 96,
+      "subject": "Literatura",
+      "topic": "Simulacro de admisión",
+      "question": "¿Qué idea se asocia principalmente al neoclasicismo de la Ilustración?",
+      "answer": "Valoración de la razón y la intención didáctica"
+    },
+    {
+      "n": 97,
+      "subject": "Literatura",
+      "topic": "Simulacro de admisión",
+      "question": "¿A qué movimiento se asocia al poeta español Gustavo Adolfo Bécquer?",
+      "answer": "Romanticismo"
+    },
+    {
+      "n": 98,
+      "subject": "Literatura",
+      "topic": "Simulacro de admisión",
+      "question": "¿Qué texto de tradición maya quiché relata mitos de creación y las hazañas de los héroes gemelos?",
+      "answer": "«Popol Vuh»"
+    },
+    {
+      "n": 99,
+      "subject": "Literatura",
+      "topic": "Simulacro de admisión",
+      "question": "¿Qué escritor salvadoreño, autor de «Cuentos de barro», es representativo de la narrativa regionalista?",
+      "answer": "Salarrué"
+    },
+    {
+      "n": 100,
+      "subject": "Literatura",
+      "topic": "Simulacro de admisión",
+      "question": "¿Cuál de las siguientes novelas, de Gabriel García Márquez, es emblemática del realismo mágico y del boom latinoamericano?",
+      "answer": "«Cien años de soledad»"
+    }
+  ],
+  "official": [
+    {
+      "n": 1,
+      "subject": "Ciencias Sociales",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Hecho histórico importante que hizo posible la introducción a la actividad comercial de nuevas mercancías, y la apertura de nuevas rutas comerciales:",
+      "answer": "El descubrimiento de América en 1492."
+    },
+    {
+      "n": 2,
+      "subject": "Ciencias Sociales",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Ciencia que estudia la forma en que los seres humanos producen, distribuyen y consumen los bienes y servicios:",
+      "answer": "Economía."
+    },
+    {
+      "n": 3,
+      "subject": "Ciencias Sociales",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Tesis que sostiene que el desarrollo de un puñado de países ha significado el subdesarrollo de la mayoría:",
+      "answer": "Teoría de la dependencia."
+    },
+    {
+      "n": 4,
+      "subject": "Ciencias Sociales",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Expresan los nexos y relaciones esenciales y estables, causalmente condicionados, entre los fenómenos y procesos de la vida económica de la sociedad:",
+      "answer": "Leyes económicas."
+    },
+    {
+      "n": 5,
+      "subject": "Ciencias Sociales",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Elementos materiales y humanos que hacen posible la producción y conforman la capacidad productiva de la sociedad:",
+      "answer": "Fuerzas productivas."
+    },
+    {
+      "n": 6,
+      "subject": "Ciencias Sociales",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Sistema económico que busca obtener ganancias de la producción y no la satisfacción de las necesidades sociales.",
+      "answer": "Capitalismo."
+    },
+    {
+      "n": 7,
+      "subject": "Ciencias Sociales",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Elementos que originan el valor de las mercancías y que representan incorporación de una determinada cantidad de trabajo:",
+      "answer": "Capital constante, capital variable y plusvalía."
+    },
+    {
+      "n": 8,
+      "subject": "Ciencias Sociales",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Actividad humana consciente mediante la cual se transforman y adaptan los elementos de la naturaleza para satisfacer las necesidades de la población:",
+      "answer": "Producción."
+    },
+    {
+      "n": 9,
+      "subject": "Ciencias Sociales",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Documento que registra todas las transacciones económicas de un país con el exterior.",
+      "answer": "Balanza de pagos."
+    },
+    {
+      "n": 10,
+      "subject": "Ciencias Sociales",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Suma monetaria de la demanda final de los bienes y servicios producidos internamente en un país:",
+      "answer": "Producto interno bruto (PIB)."
+    },
+    {
+      "n": 11,
+      "subject": "Ciencias Sociales",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Circulación de una gran cantidad de dinero que rebasa las necesidades de la producción de mercancías.",
+      "answer": "Inflación."
+    },
+    {
+      "n": 12,
+      "subject": "Ciencias Sociales",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Sistema legalmente establecido para la circulación de dinero en un país y momento determinado:",
+      "answer": "Sistema monetario."
+    },
+    {
+      "n": 13,
+      "subject": "Ciencias Sociales",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Principales razones por las cuales los gobiernos justifican implementar el modelo neoliberal en El Salvador:",
+      "answer": "Abrir los monopolios estatales a la inversión privada."
+    },
+    {
+      "n": 14,
+      "subject": "Ciencias Sociales",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Nombre del movimiento formado en la década de 1970 por el Frente de Acción Popular Unificado (FAPU), el Bloque Popular Revolucionario (BPR), las Ligas Populares 28 de Febrero (LP-28) y la Liga para la Liberación:",
+      "answer": "Movimiento de masas."
+    },
+    {
+      "n": 15,
+      "subject": "Ciencias Sociales",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Acontecimiento que cambió la correlación de fuerzas a favor de la negociación política del conflicto bélico salvadoreño:",
+      "answer": "La ofensiva guerrillera del 11 de noviembre de 1989."
+    },
+    {
+      "n": 16,
+      "subject": "Ciencias Sociales",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Defender y luchar por la dignidad de las mujeres, el respeto de las diferencias por sexo y los recursos naturales, son parte de las acciones encabezadas por:",
+      "answer": "Nuevos movimientos sociales."
+    },
+    {
+      "n": 17,
+      "subject": "Ciencias Sociales",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Proteger la libertad, la seguridad y la integridad física y moral de las personas es una característica de los derechos:",
+      "answer": "Civiles y políticos."
+    },
+    {
+      "n": 18,
+      "subject": "Ciencias Sociales",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "La huelga y sindicalización forman parte de los denominados derechos:",
+      "answer": "Económicos, sociales y culturales."
+    },
+    {
+      "n": 19,
+      "subject": "Ciencias Sociales",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "La democracia, autodeterminación y la paz forman parte de los denominados derechos de:",
+      "answer": "Derechos de solidaridad o de los pueblos."
+    },
+    {
+      "n": 20,
+      "subject": "Ciencias Sociales",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "El desarrollo sustentable toma en cuenta tres dimensiones o componentes básicos:",
+      "answer": "Social, económico y ecológico."
+    },
+    {
+      "n": 21,
+      "subject": "Biología",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Nombre que reciben las alteraciones o cambios en la información genética de un ser vivo:",
+      "answer": "Mutación."
+    },
+    {
+      "n": 22,
+      "subject": "Biología",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Vía metabólica en la cual los nutrientes se degradan en compuestos más simples liberando energía y calor:",
+      "answer": "Catabolismo."
+    },
+    {
+      "n": 23,
+      "subject": "Biología",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Partes fundamentales del citoplasma celular",
+      "answer": "Matriz citoplasmática y organelos."
+    },
+    {
+      "n": 24,
+      "subject": "Biología",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Componentes químicos de la membrana celular",
+      "answer": "Lípidos, proteínas y carbohidratos."
+    },
+    {
+      "n": 25,
+      "subject": "Biología",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "El género y la especie corresponden a:",
+      "answer": "Nombre científico."
+    },
+    {
+      "n": 26,
+      "subject": "Biología",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Ciencia que estudia los hongos:",
+      "answer": "Micología."
+    },
+    {
+      "n": 27,
+      "subject": "Biología",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Nombre que recibe el nivel taxonómico superior al reino:",
+      "answer": "Dominio."
+    },
+    {
+      "n": 28,
+      "subject": "Biología",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Seres vivos que permanecen adheridos a un sustrato:",
+      "answer": "Ostras y esponjas."
+    },
+    {
+      "n": 29,
+      "subject": "Biología",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Nombre que reciben las plantas que producen semillas protegidas por un fruto:",
+      "answer": "Angiospermas."
+    },
+    {
+      "n": 30,
+      "subject": "Biología",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Característica que diferencia las bacterias de las arqueas:",
+      "answer": "Composición química de la membrana plasmática."
+    },
+    {
+      "n": 31,
+      "subject": "Biología",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Nombre de la asociación simbiótica de beneficio mutuo entre el hongo y algunas algas:",
+      "answer": "Líquenes."
+    },
+    {
+      "n": 32,
+      "subject": "Biología",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Animales con esqueleto óseo:",
+      "answer": "Anfibios, reptiles y mamíferos."
+    },
+    {
+      "n": 33,
+      "subject": "Biología",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Reino al que pertenece el ser vivo que provoca la enfermedad conocida como mal de Chagas:",
+      "answer": "Protista (clasificación tradicional utilizada en la prueba)."
+    },
+    {
+      "n": 34,
+      "subject": "Biología",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Característica común entre las plantas vasculares inferiores (helechos y afines) y avasculares (briofitas)",
+      "answer": "Producen esporas."
+    },
+    {
+      "n": 35,
+      "subject": "Biología",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Reino que se caracteriza por incluir organismos eucarióticos, heterótrofos y con estructuras de locomoción:",
+      "answer": "Animalia."
+    },
+    {
+      "n": 36,
+      "subject": "Física",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Prefijos del Sistema Internacional que corresponden solo a los múltiplos de una unidad:",
+      "answer": "Ninguna alternativa es completamente correcta: los múltiplos incluyen deca, hecto, kilo, mega, giga y tera; mili, micro, nano y femto son submúltiplos."
+    },
+    {
+      "n": 37,
+      "subject": "Física",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Un metro cúbico es igual a:",
+      "answer": "1 000 000 cm³."
+    },
+    {
+      "n": 38,
+      "subject": "Física",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "En un cubo de madera se pueden identificar las siguientes magnitudes:",
+      "answer": "Masa, volumen y densidad."
+    },
+    {
+      "n": 39,
+      "subject": "Física",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Diferencia entre los sistemas de unidades absolutos y los sistemas técnicos:",
+      "answer": "Los sistemas absolutos usan la masa como magnitud fundamental; los técnicos o gravitacionales emplean la fuerza."
+    },
+    {
+      "n": 40,
+      "subject": "Física",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "De los tres gráficos A, B y C, ¿cuál corresponde a una relación de proporcionalidad directa entre las variables? (A: recta que no pasa por el origen; B: recta que pasa por el origen; C: curva creciente).",
+      "answer": "Solo el gráfico B."
+    },
+    {
+      "n": 41,
+      "subject": "Física",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "La expresión y = K/x, donde K es una constante y x e y son variables, indica que:",
+      "answer": "y es proporcional a 1/x (relación inversa con x)."
+    },
+    {
+      "n": 42,
+      "subject": "Física",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "En cinemática para un mejor comprensión del movimiento de traslación de los cuerpos se desprecia su tamaño aplicando para estos el concepto de:",
+      "answer": "Partícula."
+    },
+    {
+      "n": 43,
+      "subject": "Física",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Se lanza una pelota de béisbol verticalmente hacia arriba. ¿Cuál es la aceleración de la pelota en su punto más alto?",
+      "answer": "9.8 m/s² hacia abajo."
+    },
+    {
+      "n": 44,
+      "subject": "Física",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Para una partícula en movimiento circular uniforme (MCU), es correcto afirmar que la magnitud que no cambia durante el movimiento es:",
+      "answer": "Su rapidez."
+    },
+    {
+      "n": 45,
+      "subject": "Física",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Se entiende por fuerza, aquella magnitud capaz de producir en un cuerpo:",
+      "answer": "Una aceleración."
+    },
+    {
+      "n": 46,
+      "subject": "Física",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Una persona viaja en un vehículo el cual frena y se detiene bruscamente, la tendencia de la persona es moverse hacia adelante. Según las leyes de Newton, dicha tendencia es:",
+      "answer": "A conservar su velocidad y dirección anteriores por inercia."
+    },
+    {
+      "n": 47,
+      "subject": "Física",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Un bloque se desliza sobre una superficie horizontal, con una aceleración igual a cero. La fuerza neta que actúa sobre el es:",
+      "answer": "Cero."
+    },
+    {
+      "n": 48,
+      "subject": "Física",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "En el análisis de equilibrio de un cuerpo rígido, el vector suma de las fuerzas gravitacionales de las partículas que constituyen el cuerpo puede representase por un único vector de fuerza que actúa en:",
+      "answer": "Centro de gravedad."
+    },
+    {
+      "n": 49,
+      "subject": "Física",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "La cantidad de movimiento lineal se conserva en un choque cuando:",
+      "answer": "Cuando la fuerza externa neta sobre el sistema es cero."
+    },
+    {
+      "n": 50,
+      "subject": "Física",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "El cambio en la energía cinética que experimenta un cuerpo que se mueve bajo la acción de una fuerza neta en un determinado desplazamiento es igual:",
+      "answer": "Al trabajo realizado por la fuerza neta durante el desplazamiento."
+    },
+    {
+      "n": 51,
+      "subject": "Química",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Ejemplo de propiedad intensiva de la materia:",
+      "answer": "Densidad."
+    },
+    {
+      "n": 52,
+      "subject": "Química",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Temperatura a la cual la presión de vapor del liquido es igual a la presión del medio que rodea al último:",
+      "answer": "Punto de ebullición."
+    },
+    {
+      "n": 53,
+      "subject": "Química",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Numero cuántico que indica el nivel energético y la distancia media entre el núcleo y el electrón:",
+      "answer": "Número cuántico principal."
+    },
+    {
+      "n": 54,
+      "subject": "Química",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Los elementos en la tabla periódica actual están ordenados con base a:",
+      "answer": "Número atómico."
+    },
+    {
+      "n": 55,
+      "subject": "Química",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Propiedad periódica que indica el tamaño del átomo:",
+      "answer": "Radio atómico."
+    },
+    {
+      "n": 56,
+      "subject": "Química",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Energía necesaria para remover un electrón de un átomo en estado gaseoso:",
+      "answer": "Energía de ionización."
+    },
+    {
+      "n": 57,
+      "subject": "Química",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Por ganar electrones, ¿qué partículas tienen mayor radio que el átomo correspondiente?",
+      "answer": "Iones negativos o aniones."
+    },
+    {
+      "n": 58,
+      "subject": "Química",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Los ácidos hidrácidos se forman cuando:",
+      "answer": "Cuando el hidrógeno está unido a un no metal."
+    },
+    {
+      "n": 59,
+      "subject": "Química",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "La conductividad eléctrica es una propiedad de:",
+      "answer": "Compuestos iónicos (cuando están fundidos o disueltos)."
+    },
+    {
+      "n": 60,
+      "subject": "Química",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Enlace que se forma por la compartición de electrones entre dos elementos no metálicos:",
+      "answer": "Enlace covalente."
+    },
+    {
+      "n": 61,
+      "subject": "Matemática",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "¿A qué es igual la expresión (6 − √18) / 3?",
+      "answer": "2 − √2.",
+      "steps": [
+        "Descomponemos √18 = √(9·2) = 3√2.",
+        "Sustituimos: (6−3√2)/3.",
+        "Dividimos cada término entre 3: 2−√2."
+      ]
+    },
+    {
+      "n": 62,
+      "subject": "Matemática",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "¿Qué expresión representa el doble de un número más la quinta parte del mismo número?",
+      "answer": "2x + x/5.",
+      "steps": [
+        "Llamamos x al número desconocido.",
+        "Su doble es 2x y su quinta parte es x/5.",
+        "La suma pedida es 2x + x/5 (equivale a 11x/5)."
+      ]
+    },
+    {
+      "n": 63,
+      "subject": "Matemática",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "¿Cuál es el residuo de dividir x³ + 24x² − 58x − 66 entre x + 1?",
+      "answer": "15.",
+      "steps": [
+        "El teorema del residuo dice que, al dividir P(x) entre x+1, el residuo es P(−1).",
+        "Evaluamos (−1)³ + 24(−1)² − 58(−1) − 66.",
+        "Resultado: −1+24+58−66 = 15."
+      ]
+    },
+    {
+      "n": 64,
+      "subject": "Matemática",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Al desarrollar el producto notable (x³ − y²)², ¿qué expresión se obtiene?",
+      "answer": "x⁶ − 2x³y² + y⁴.",
+      "steps": [
+        "Usamos la identidad (a−b)² = a²−2ab+b².",
+        "Tomamos a = x³ y b = y².",
+        "Resultado: x⁶ − 2x³y² + y⁴."
+      ]
+    },
+    {
+      "n": 65,
+      "subject": "Matemática",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "¿Cuál es la factorización de 15x² − 19x + 6?",
+      "answer": "(3x − 2)(5x − 3).",
+      "steps": [
+        "Buscamos factores cuya multiplicación produzca 15x² y 6.",
+        "Probamos (3x−2)(5x−3).",
+        "Multiplicamos: 15x²−9x−10x+6 = 15x²−19x+6."
+      ]
+    },
+    {
+      "n": 66,
+      "subject": "Matemática",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Resuelve la ecuación (2x − 3) / (4x + 3) = 1/5.",
+      "answer": "x = 3.",
+      "steps": [
+        "Multiplicamos en cruz: 5(2x−3) = 4x+3 (exigiendo 4x+3 ≠ 0).",
+        "10x−15 = 4x+3 → 6x = 18.",
+        "Entonces x = 3; el denominador no se anula."
+      ]
+    },
+    {
+      "n": 67,
+      "subject": "Matemática",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "¿Cuál es la ecuación general de la recta que intercepta el eje x en 2 y el eje y en 3?",
+      "answer": "3x + 2y − 6 = 0.",
+      "steps": [
+        "Si la recta corta el eje x en 2 y el eje y en 3, usamos x/2 + y/3 = 1.",
+        "Multiplicamos por 6: 3x + 2y = 6.",
+        "Pasamos todo al mismo lado: 3x + 2y − 6 = 0."
+      ]
+    },
+    {
+      "n": 68,
+      "subject": "Matemática",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Resuelve la desigualdad 7 < 3x − 2 < 25.",
+      "answer": "3 < x < 9.",
+      "steps": [
+        "Partimos de 7 < 3x−2 < 25.",
+        "Sumamos 2 a los tres miembros: 9 < 3x < 27.",
+        "Dividimos entre 3: 3 < x < 9."
+      ]
+    },
+    {
+      "n": 69,
+      "subject": "Matemática",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Resuelve la desigualdad |3x − 5| ≥ 1.",
+      "answer": "x ≤ 4/3 o x ≥ 2.",
+      "steps": [
+        "La desigualdad de valor absoluto de (3x−5) ≥ 1 tiene dos posibilidades: 3x−5 ≥ 1 o 3x−5 ≤ −1.",
+        "Primer caso: 3x ≥ 6 → x ≥ 2.",
+        "Segundo caso: 3x ≤ 4 → x ≤ 4/3."
+      ]
+    },
+    {
+      "n": 70,
+      "subject": "Matemática",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Resuelve la desigualdad x² − 8x + 15 > 0.",
+      "answer": "x < 3 o x > 5 (los extremos 3 y 5 no se incluyen).",
+      "steps": [
+        "Factorizamos el trinomio: x²−8x+15 = (x−3)(x−5).",
+        "Los puntos críticos son 3 y 5; una parábola que abre hacia arriba es positiva fuera de las raíces.",
+        "Solución: x < 3 o x > 5. No se incluyen los extremos porque la desigualdad es estricta."
+      ]
+    },
+    {
+      "n": 71,
+      "subject": "Matemática",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Resuelve el sistema de ecuaciones 2x + 3y = 1 y 4x − y = 9.",
+      "answer": "x = 2, y = −1.",
+      "steps": [
+        "De 4x−y=9 despejamos y = 4x−9.",
+        "Sustituimos en 2x+3y=1: 2x+3(4x−9)=1 → 14x=28.",
+        "Así x=2; luego y=8−9=−1."
+      ]
+    },
+    {
+      "n": 72,
+      "subject": "Matemática",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "¿Qué valor de x satisface log₃(1/81) = x?",
+      "answer": "x = −4.",
+      "steps": [
+        "Por definición, log₃(1/81)=x equivale a 3ˣ=1/81.",
+        "Como 81=3⁴, 1/81=3⁻⁴.",
+        "Por tanto x=−4."
+      ]
+    },
+    {
+      "n": 73,
+      "subject": "Matemática",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "¿Qué valores de x resuelven la ecuación 2x² − 7x − 4 = 0?",
+      "answer": "x = −1/2 y x = 4.",
+      "steps": [
+        "Aplicamos la fórmula cuadrática con a=2, b=−7, c=−4.",
+        "x = (7 ± √(49+32))/4 = (7 ± 9)/4.",
+        "Resultados: x=4 y x=−1/2."
+      ]
+    },
+    {
+      "n": 74,
+      "subject": "Matemática",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "¿Cuál es la ecuación ordinaria de la circunferencia del gráfico, con centro en (4, 3) y radio 2?",
+      "answer": "(x − 4)² + (y − 3)² = 4.",
+      "steps": [
+        "Fórmula de circunferencia: (x−h)²+(y−k)²=r².",
+        "Centro (4,3) y radio 2 dan (x−4)²+(y−3)²=4."
+      ]
+    },
+    {
+      "n": 75,
+      "subject": "Matemática",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "¿Cuál es la ecuación de la elipse del gráfico, centrada en el origen, con semieje horizontal 2 y semieje vertical 1?",
+      "answer": "x²/4 + y² = 1.",
+      "steps": [
+        "Una elipse horizontal centrada en el origen cumple x²/a²+y²/b²=1.",
+        "Con semiejes a=2 (horizontal) y b=1 (vertical), sustituimos.",
+        "Resultado: x²/4+y²=1."
+      ]
+    },
+    {
+      "n": 76,
+      "subject": "Matemática",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Si tan θ = √3, ¿cuál es el resultado de sen θ · cos θ?",
+      "answer": "√3 / 4.",
+      "steps": [
+        "La tangente es tan θ = sen θ / cos θ = √3.",
+        "Usamos sen θ·cos θ = tan θ/(1+tan² θ).",
+        "Sustituimos: √3/(1+3) = √3/4."
+      ]
+    },
+    {
+      "n": 77,
+      "subject": "Matemática",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "En el triángulo del gráfico, AC = b = 7.5, AB = c = 9 y el ángulo A es 45°. ¿Cuál es la altura relativa al lado b?",
+      "answer": "9 sen(45°) = 9√2 / 2.",
+      "steps": [
+        "La altura relativa a AC se obtiene proyectando el lado AB sobre la perpendicular a AC.",
+        "Usamos h = AB·sen(A) = 9·sen45°.",
+        "Como sen45°=√2/2, h=9√2/2, aproximadamente 6.36."
+      ]
+    },
+    {
+      "n": 78,
+      "subject": "Matemática",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Se lanza un dado. Si A es «obtener un número impar» y B es «obtener un número mayor que 4», ¿cuál es la probabilidad de obtener un número par y mayor que 4?",
+      "answer": "1/6.",
+      "steps": [
+        "Resultados del dado: 1,2,3,4,5,6.",
+        "El único número simultáneamente par y mayor que 4 es 6.",
+        "Hay 1 favorable entre 6 posibles: P = 1/6."
+      ]
+    },
+    {
+      "n": 79,
+      "subject": "Matemática",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Dados los conjuntos A = {6, 6, 10, 10}, B = {3, 9, 10, 10}, C = {7, 7, 8, 10} y D = {7, 8, 8, 9}, todos con media de 8, ¿cuál tiene mayor variabilidad?",
+      "answer": "Conjunto B = {3, 9, 10, 10}.",
+      "steps": [
+        "Como los cuatro conjuntos tienen media 8, comparamos la dispersión de los valores respecto a 8.",
+        "Para B, las distancias al valor medio son 5,1,2,2, y sus cuadrados suman 25+1+4+4=34.",
+        "En A suman 16, en C 6 y en D 2; por tanto B tiene mayor variabilidad."
+      ]
+    },
+    {
+      "n": 80,
+      "subject": "Matemática",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "El promedio de tres exámenes con igual ponderación es 7.0. Si las dos primeras notas son 6.0 y 9.0, ¿cuál es la tercera?",
+      "answer": "6.0.",
+      "steps": [
+        "La media de tres calificaciones igualmente ponderadas es (6+9+x)/3 = 7.",
+        "Multiplicamos por 3: 15+x=21.",
+        "Despejamos x=6."
+      ]
+    },
+    {
+      "n": 81,
+      "subject": "Lenguaje",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Parte de la gramática que estudia la estructura de las palabras:",
+      "answer": "Morfología."
+    },
+    {
+      "n": 82,
+      "subject": "Lenguaje",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Tipo de complemento que señala sobre quien recae la acción expresada mediante el verbo:",
+      "answer": "Complemento directo."
+    },
+    {
+      "n": 83,
+      "subject": "Lenguaje",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Clase de complemento ubicado en el predicado e indica quien realiza la acción expresada por el verbo:",
+      "answer": "Complemento agente."
+    },
+    {
+      "n": 84,
+      "subject": "Lenguaje",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "¿Cómo se denominan las palabras que se pronuncian igual, pero se escriben de manera diferente?",
+      "answer": "Homófonas (son un tipo de palabras homónimas)."
+    },
+    {
+      "n": 85,
+      "subject": "Lenguaje",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Función del lenguaje que predomina en la imagen publicitaria:",
+      "answer": "Función apelativa."
+    },
+    {
+      "n": 86,
+      "subject": "Lenguaje",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Clase de recursos que alteran el sentido o significado de las palabras a través de figuras como la metáfora y la metonimia:",
+      "answer": "Recursos semánticos."
+    },
+    {
+      "n": 87,
+      "subject": "Lenguaje",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Pronombres que sustituyen al sintagma que desempeña la función sintáctica de complemento indirecto en la estructura del predicado:",
+      "answer": "Le y les."
+    },
+    {
+      "n": 88,
+      "subject": "Lenguaje",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "¿Qué actitud deben asumir los hablantes ante la variedad en el uso de una misma lengua?",
+      "answer": "Tolerar y respetar."
+    },
+    {
+      "n": 89,
+      "subject": "Literatura",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Civilización donde se comenzó a utilizar la escritura:",
+      "answer": "Civilización mesopotámica."
+    },
+    {
+      "n": 90,
+      "subject": "Literatura",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Característica de mayor importancia del renacimiento:",
+      "answer": "La revaloración del ser humano."
+    },
+    {
+      "n": 91,
+      "subject": "Literatura",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Movimiento literario fundamentado en el predominio de los sueños, los deseos reprimidos y evocación del subconsciente:",
+      "answer": "Surrealismo."
+    },
+    {
+      "n": 92,
+      "subject": "Literatura",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Tendencia de la literatura barroca que se caracteriza por la profundidad de pensamiento, por el abstraccionismo contrastando los conceptos sobre una realidad determinada:",
+      "answer": "Conceptismo."
+    },
+    {
+      "n": 93,
+      "subject": "Literatura",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "¿Qué dramaturgo griego escribió «Las suplicantes» y «Prometeo encadenado»?",
+      "answer": "Esquilo."
+    },
+    {
+      "n": 94,
+      "subject": "Literatura",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "¿Qué representante de la generación del 27 escribió «Yerma», «Bodas de sangre» y «La casa de Bernarda Alba»?",
+      "answer": "Federico García Lorca."
+    },
+    {
+      "n": 95,
+      "subject": "Lenguaje",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Características de la noticia.",
+      "answer": "Veracidad, objetividad y actualidad."
+    },
+    {
+      "n": 96,
+      "subject": "Lenguaje",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Modalidad periodística que representa la opinión de un periódico que mejor define su ideología.",
+      "answer": "Editorial."
+    },
+    {
+      "n": 97,
+      "subject": "Lenguaje",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Nombre que recibe el receptor en una comunicación.",
+      "answer": "Destinatario."
+    },
+    {
+      "n": 98,
+      "subject": "Lenguaje",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "¿Cuál es la forma habitual de realizar exposiciones y desarrollar un tema?",
+      "answer": "La disertación."
+    },
+    {
+      "n": 99,
+      "subject": "Literatura",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "Escritor Salvadoreño que surgió a finales de la década de 1870 en la segunda generación romántica, de múltiples facetas, poeta, filosofo, narrador y dramaturgo:",
+      "answer": "Francisco Gavidia."
+    },
+    {
+      "n": 100,
+      "subject": "Literatura",
+      "topic": "Examen de ingreso UES 2016",
+      "question": "¿Qué escritor luchó contra la injusticia, la ignorancia y la miseria, y sintetizó su pensamiento en «Mínimum vital»?",
+      "answer": "Alberto Masferrer."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.UESLectura" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#087D69</item>
+        <item name="android:statusBarColor">#F4F8F8</item>
+        <item name="android:navigationBarColor">#FFFFFF</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:windowBackground">#F4F8F8</item>
+    </style>
+</resources>

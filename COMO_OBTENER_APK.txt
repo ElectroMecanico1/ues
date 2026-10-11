@@ -1,0 +1,33 @@
+UES LECTURA NATIVA PARA ANDROID — GENERAR EL APK
+================================================
+
+CONTENIDO: proyecto Android nativo, no web/PWA y SIN APK compilado.
+
+MÉTODO MÁS FÁCIL: GITHUB ACTIONS (sin instalar Android Studio)
+1. Descomprime UES_Lectura_Android_Nativo.zip.
+2. Sube todo el contenido de la carpeta a la raíz de un repositorio GitHub
+   (incluyendo la carpeta oculta .github/workflows).
+3. En GitHub entra a Actions > Crear APK Android > Run workflow.
+4. Espera a que la ejecución finalice correctamente.
+5. Abre esa ejecución > Artifacts > UES-Lectura-Android-APK.
+6. Descarga y descomprime el artefacto: dentro estará app-debug.apk.
+7. Transfiere el APK a tu Android e instálalo.
+
+OTRO MÉTODO: ANDROID STUDIO EN WINDOWS
+1. Instala Android Studio.
+2. Abre esta carpeta completa (settings.gradle debe estar en la raíz).
+3. Espera la sincronización de Gradle (requiere Internet).
+4. Menú Build > Build APK(s) o Generate APKs (según la versión).
+5. Archivo generado: app/build/outputs/apk/debug/app-debug.apk.
+
+TODAS LAS PREGUNTAS ESTÁN INCORPORADAS:
+450 banco + 100 simulacro + 100 examen histórico 2016.
+Incluye avance por materia, continuar, guardar favoritas, búsqueda, voz,
+flechas/deslizamiento, ajuste de letras y ejercicios matemáticos desarrollados.
+
+SI YA USASTE LA VERSIÓN HTML: usa «Guardar copia» y luego «Importar progreso
+de HTML» dentro de la versión Android para transferir los avances.
+
+NO SE NECESITA INTERNET PARA USAR LA APP UNA VEZ INSTALADA.
+Este proyecto todavía requiere compilarse; no ha sido compilado ni probado
+en un teléfono real desde el entorno que lo preparó.
